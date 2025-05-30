@@ -8,19 +8,21 @@ from dotenv import load_dotenv
 
 # OpenAI APIとGoogle Sheets APIのインポートを条件付きにする
 try:
-    import openai
+    from openai import OpenAI
     OPENAI_AVAILABLE = True
 except ImportError:
     OPENAI_AVAILABLE = False
     print("警告: OpenAIライブラリが利用できません。AI補完機能は無効になります。")
 
+# Google Sheets関連のインポート（条件付き）
+GSPREAD_AVAILABLE = False
 try:
     import gspread
     from oauth2client.service_account import ServiceAccountCredentials
     GSPREAD_AVAILABLE = True
+    print("📊 Google Sheets機能が利用可能です")
 except ImportError:
-    GSPREAD_AVAILABLE = False
-    print("警告: gspreadライブラリが利用できません。Google Sheets出力機能は無効になります。")
+    print("⚠️  Google Sheets機能が無効です。gspreadとoauth2clientをインストールしてください。")
 
 class BungoCollector:
     """日本の文豪情報収集・整理システム"""
@@ -35,10 +37,8 @@ class BungoCollector:
         # Wikipedia言語設定
         wikipedia.set_lang("ja")
         
-        # OpenAI設定
-        if OPENAI_AVAILABLE and self.openai_api_key:
-            openai.api_key = self.openai_api_key
-            
+        # OpenAI設定は enhance_with_ai メソッド内で行う
+        
         self.authors_data = []
         
     def get_authors_list(self) -> List[str]:
@@ -236,7 +236,10 @@ class BungoCollector:
 - 理由は簡潔に（出生地、活動地、記念館など）
 """
             
-            response = openai.ChatCompletion.create(
+            # OpenAI API 1.0.0以降の新しい形式
+            client = OpenAI(api_key=self.openai_api_key)
+            
+            response = client.chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": "あなたは日本文学の専門家です。正確で簡潔な情報を提供してください。"},
