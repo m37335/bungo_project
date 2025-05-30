@@ -1,0 +1,8 @@
+# OpenAI API キー
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Google Sheets設定用（サービスアカウント認証情報ファイルのパス）
+GOOGLE_CREDENTIALS_PATH=credentials.json
+
+# 処理する文豪の最大数（コスト制限のため）
+MAX_AUTHORS=50 
