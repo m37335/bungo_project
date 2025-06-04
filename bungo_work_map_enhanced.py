@@ -75,7 +75,10 @@ class BungoWorkMapEnhanced:
     def get_authors_list(self) -> List[str]:
         """文豪リストの取得"""
         authors = [
-            "夏目漱石", "芥川龍之介", "太宰治", "川端康成", "宮沢賢治"
+            "夏目漱石", "芥川龍之介", "太宰治", "川端康成", "宮沢賢治",
+            # 追加可能な文豪リスト
+            "樋口一葉", "森鴎外", "石川啄木", "与謝野晶子", "正岡子規",
+            "島崎藤村", "国木田独歩", "泉鏡花", "徳田秋声", "田山花袋"
         ]
         return authors[:self.max_authors]
     
@@ -100,7 +103,7 @@ class BungoWorkMapEnhanced:
             client = OpenAI(api_key=self.openai_api_key)
             
             prompt = f"""
-以下の文豪のWikipedia記事から、代表作品を3つまで抽出してください。
+以下の文豪のWikipedia記事から、代表作品を5つまで抽出してください。
 長編小説を優先して選んでください。作品名のみをリスト形式で出力してください。
 
 文豪: {author_name}
