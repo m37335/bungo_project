@@ -44,4 +44,4 @@ Thumbs.db
 
 # テスト・デバッグ用ファイル
 debug_*.py
-test_*.csv 
+test_*.csv venv_ginza/
