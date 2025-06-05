@@ -184,14 +184,16 @@ class FullPipelineExecutor:
             
             # 1. CSV全形式エクスポート
             csv_results = export_db_to_csv(
-                db=db,
+                db_path="data/bungo_production.db",
                 output_dir="data/output",
-                export_types=['authors', 'works', 'places', 'places_geocoded', 'combined'],
-                timestamp=timestamp
+                export_type="all",
+                prefix=f"bungo_export_{timestamp}"
             )
             
-            self.stats['export_files'].extend(csv_results['files'])
-            self.logger.info(f"✅ CSV エクスポート完了: {len(csv_results['files'])}ファイル")
+            # CSV結果の処理
+            for export_type, filepath in csv_results.items():
+                self.stats['export_files'].append(filepath)
+            self.logger.info(f"✅ CSV エクスポート完了: {len(csv_results)}ファイル")
             
             # 2. GeoJSONエクスポート
             geojson_exporter = GeoJSONExporter("data/output")
@@ -199,22 +201,25 @@ class FullPipelineExecutor:
             geojson_file = geojson_exporter.export_from_database(
                 db, f"bungo_production_export_{timestamp}.geojson"
             )
-            self.stats['export_files'].append(geojson_file)
-            self.logger.info(f"✅ GeoJSON エクスポート完了: {geojson_file}")
+            if geojson_file:
+                self.stats['export_files'].append(geojson_file)
+                self.logger.info(f"✅ GeoJSON エクスポート完了: {geojson_file}")
             
             # 3. 統計情報エクスポート
             stats_file = geojson_exporter.export_summary_stats(
                 db, f"bungo_stats_{timestamp}.json"
             )
-            self.stats['export_files'].append(stats_file)
-            self.logger.info(f"✅ 統計情報エクスポート完了: {stats_file}")
+            if stats_file:
+                self.stats['export_files'].append(stats_file)
+                self.logger.info(f"✅ 統計情報エクスポート完了: {stats_file}")
             
             # 4. 分析用CSVエクスポート
             analysis_file = geojson_exporter.export_csv_for_analysis(
                 db, f"bungo_analysis_{timestamp}.csv"
             )
-            self.stats['export_files'].append(analysis_file)
-            self.logger.info(f"✅ 分析用CSV エクスポート完了: {analysis_file}")
+            if analysis_file:
+                self.stats['export_files'].append(analysis_file)
+                self.logger.info(f"✅ 分析用CSV エクスポート完了: {analysis_file}")
             
             db.close()
             
