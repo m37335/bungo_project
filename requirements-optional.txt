@@ -1,0 +1,18 @@
+# 文豪ゆかり地図システム - オプション依存関係
+
+# Google Sheets連携（レガシー機能）
+gspread>=5.0.0
+oauth2client>=4.1.3
+
+# Wikipedia情報取得（レガシー機能）
+wikipedia>=1.4.0
+
+# HTMLパース（レガシー機能）
+beautifulsoup4>=4.11.0
+
+# Google Maps API（レガシー機能）
+googlemaps==4.10.0
+
+# Sudachi辞書（GiNZA代替）
+sudachipy>=0.6.8
+sudachidict-core>=20220729 

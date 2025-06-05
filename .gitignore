@@ -7,7 +7,7 @@ credentials.json
 authors.*
 
 # レガシーアーカイブ（一時保管）
-legacy/
+# legacy/
 
 # Python関連
 __pycache__/
