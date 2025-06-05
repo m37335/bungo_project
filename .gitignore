@@ -6,6 +6,9 @@ credentials.json
 *.csv
 authors.*
 
+# レガシーアーカイブ（一時保管）
+legacy/
+
 # Python関連
 __pycache__/
 *.py[cod]
