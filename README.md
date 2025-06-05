@@ -1,4 +1,52 @@
-# 文豪ゆかり地図システム (Bungo Map System)
+# 文豪ゆかり地図システム (Bungo Places Map)
+
+**青空文庫から文豪作品の地名を自動抽出し、地図データとして可視化するシステム**
+
+[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
+[![GiNZA](https://img.shields.io/badge/NLP-GiNZA-green.svg)](https://megagonlabs.github.io/ginza/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## 🚀 **クイックスタート（一気通貫実行）**
+
+### **💨 最速実行（推奨）**
+```bash
+# リポジトリクローン
+git clone https://github.com/m37335/bungo_project.git
+cd bungo_project
+
+# 一気通貫実行（20作家、最大10作品/作家）
+./run_full_pipeline.sh
+
+# または手動実行
+python scripts/full_pipeline.py --max-works 15 --verbose
+```
+
+### **📊 実行結果**
+- **処理時間**: 20-60分（作品数により変動）
+- **対象作家**: 20名（夏目漱石、太宰治、与謝野晶子等）
+- **期待出力**: 
+  - 統合CSVデータ（`data/output/bungo_export_*_combined.csv`）
+  - 地図用GeoJSON（`data/output/bungo_production_export_*.geojson`）
+  - 統計レポート（`data/output/pipeline_report_*.json`）
+
+### **⚡ 要件**
+```bash
+pip install -r requirements.txt
+```
+- Python 3.7+
+- spaCy + ja-ginza（日本語NLP）
+- SQLite（データベース）
+- インターネット接続（青空文庫API・ジオコーディング）
+
+---
+
+## 📖 **詳細説明**
+
+### システム概要
+
+文豪作品から地名を自動抽出し、位置情報付きデータとして可視化するためのエンドツーエンドシステムです。
+
+### 主要機能
 
 📚🗾 日本の文豪作品から地名を抽出し、地図上に可視化するシステム
 
