@@ -1,0 +1,10 @@
+wikipedia
+pandas
+requests
+beautifulsoup4
+geopy==2.4.1
+googlemaps==4.10.0
+spacy==3.2.6
+ja-ginza==5.0.0
+sudachipy==0.6.8
+sudachidict-core>=20220729 

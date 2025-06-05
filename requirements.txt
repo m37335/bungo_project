@@ -1,8 +1,15 @@
 wikipedia
-openai
+openai>=1.0.0
 pandas
 gspread
 oauth2client
 python-dotenv
 requests
-beautifulsoup4 
+beautifulsoup4
+geopy==2.4.1
+googlemaps==4.10.0
+spacy>=3.2.3,<3.3.0
+ja-ginza==5.1.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0 

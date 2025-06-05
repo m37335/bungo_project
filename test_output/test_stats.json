@@ -1,0 +1,26 @@
+{
+  "authors_count": 1,
+  "works_count": 1,
+  "places_count": 2,
+  "geocoded_count": 2,
+  "geocoded_rate": 100.0,
+  "export_stats": {
+    "exportable_places": 2,
+    "top_authors": {
+      "テスト作家": 2
+    },
+    "top_places": {
+      "大阪府": 1,
+      "東京都": 1
+    },
+    "extraction_methods": {
+      "test": 2
+    },
+    "confidence_distribution": {
+      "high (>0.8)": 1,
+      "medium (0.5-0.8)": 1,
+      "low (<0.5)": 0
+    }
+  },
+  "generated_at": "2025-06-05T09:34:00.356754"
+}

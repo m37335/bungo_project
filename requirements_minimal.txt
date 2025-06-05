@@ -1,0 +1,6 @@
+wikipedia
+pandas
+requests
+beautifulsoup4
+geopy==2.4.1
+googlemaps==4.10.0 

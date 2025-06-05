@@ -1,0 +1,35 @@
+{
+  "authors_count": 1,
+  "works_count": 1,
+  "places_count": 34,
+  "geocoded_count": 30,
+  "geocoded_rate": 88.23529411764706,
+  "export_stats": {
+    "exportable_places": 30,
+    "top_authors": {
+      "夏目漱石": 30
+    },
+    "top_places": {
+      "さき": 1,
+      "だんだら": 1,
+      "一条": 1,
+      "京都": 1,
+      "同所": 1,
+      "向島": 1,
+      "四谷": 1,
+      "小石川": 1,
+      "山の手": 1,
+      "山越": 1
+    },
+    "extraction_methods": {
+      "ginza_ner_City": 27,
+      "ginza_ner_Province": 3
+    },
+    "confidence_distribution": {
+      "high (>0.8)": 0,
+      "medium (0.5-0.8)": 30,
+      "low (<0.5)": 0
+    }
+  },
+  "generated_at": "2025-06-05T05:02:19.036580"
+}

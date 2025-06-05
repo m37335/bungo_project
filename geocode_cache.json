@@ -1,0 +1,416 @@
+{
+  "だんだら_日本": {
+    "place_name": "だんだら",
+    "latitude": 33.7262342,
+    "longitude": 130.9783736,
+    "address": "だんだら, 直方行橋線, 門樋町, 行橋市, 福岡県, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "一条_日本": {
+    "place_name": "一条",
+    "latitude": 33.2471416,
+    "longitude": 130.510434,
+    "address": "一条, 大字一条, 筑後市, 福岡県, 833-0054, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "長良_日本": {
+    "place_name": "長良",
+    "latitude": 34.6903452,
+    "longitude": 133.7918454,
+    "address": "長良, 総社市, 岡山県, 719-1111, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "京都_日本": {
+    "place_name": "京都",
+    "latitude": 34.9853497,
+    "longitude": 135.758766,
+    "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "飄然_日本": {
+    "place_name": "飄然",
+    "latitude": null,
+    "longitude": null,
+    "address": null,
+    "geocoded": false,
+    "method": "failed",
+    "confidence": 0.0
+  },
+  "銚子_日本": {
+    "place_name": "銚子",
+    "latitude": 35.7296133,
+    "longitude": 140.8274887,
+    "address": "銚子, 銚子停車場線, 駅前商店街, 銚子市, 千葉県, 288-0044, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "草双紙_日本": {
+    "place_name": "草双紙",
+    "latitude": null,
+    "longitude": null,
+    "address": null,
+    "geocoded": false,
+    "method": "failed",
+    "confidence": 0.0
+  },
+  "向島_日本": {
+    "place_name": "向島",
+    "latitude": 34.3828144,
+    "longitude": 133.1976678,
+    "address": "向島, 尾道市, 広島県, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "明覚_日本": {
+    "place_name": "明覚",
+    "latitude": 36.0033004,
+    "longitude": 139.2888558,
+    "address": "明覚, 明覚停車場線, 番匠, ときがわ町, 比企郡, 埼玉県, 355-0354, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "麻布_日本": {
+    "place_name": "麻布",
+    "latitude": 37.61326,
+    "longitude": 138.998718,
+    "address": "麻布, 三条市, 新潟県, 955-0047, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "東京_日本": {
+    "place_name": "東京",
+    "latitude": 35.6768601,
+    "longitude": 139.7638947,
+    "address": "東京都, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "茶店_日本": {
+    "place_name": "茶店",
+    "latitude": 34.5932522,
+    "longitude": 136.1612135,
+    "address": "茶店, 国道368号, 長瀬, 名張市, 三重県, 518-0411, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "山の手_日本": {
+    "place_name": "山の手",
+    "latitude": 43.0635019,
+    "longitude": 141.2859627,
+    "address": "山の手, 西区, 札幌市, 石狩振興局, 北海道, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "麹町_日本": {
+    "place_name": "麹町",
+    "latitude": 35.6838108,
+    "longitude": 139.7381214,
+    "address": "麹町, 千代田区, 東京都, 102-0083, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "小石川_日本": {
+    "place_name": "小石川",
+    "latitude": 35.7131491,
+    "longitude": 139.7460916,
+    "address": "小石川, 文京区, 東京都, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "牛込_日本": {
+    "place_name": "牛込",
+    "latitude": 35.439427,
+    "longitude": 139.940755,
+    "address": "牛込, 木更津市, 千葉県, 292-0001, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "四谷_日本": {
+    "place_name": "四谷",
+    "latitude": 35.6861404,
+    "longitude": 139.7286558,
+    "address": "四谷, 新宿区, 東京都, 160-8484, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "髪結床_日本": {
+    "place_name": "髪結床",
+    "latitude": null,
+    "longitude": null,
+    "address": null,
+    "geocoded": false,
+    "method": "failed",
+    "confidence": 0.0
+  },
+  "江戸っ子_日本": {
+    "place_name": "江戸っ子",
+    "latitude": 35.7614288,
+    "longitude": 139.822448,
+    "address": "江戸っ子, 綾瀬川通り, 小菅四丁目, 小菅, 葛飾区, 東京都, 120-0005, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "陸前_日本": {
+    "place_name": "陸前",
+    "latitude": 43.7183388,
+    "longitude": 144.5055029,
+    "address": "緑, 駅前通り, 緑町, 清里町, 斜里郡, オホーツク総合振興局, 北海道, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "精華_日本": {
+    "place_name": "精華",
+    "latitude": 37.7529789,
+    "longitude": 140.4666408,
+    "address": "精華, 平和通り, 上町, 福島市, 福島県, 960-8611, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "同所_日本": {
+    "place_name": "同所",
+    "latitude": 36.6513423,
+    "longitude": 138.1859359,
+    "address": "囲, 寿町通り, 南長野, 西後町, 長野市, 長野県, 380-8612, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "御影_日本": {
+    "place_name": "御影",
+    "latitude": 34.714886,
+    "longitude": 135.2555885,
+    "address": "御影, 御影本町３１号線, 御影中町五丁目, 東灘区, 神戸市, 兵庫県, 658-0054, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "広島_日本": {
+    "place_name": "広島",
+    "latitude": 34.3970993,
+    "longitude": 132.4758627,
+    "address": "広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "山陽_日本": {
+    "place_name": "山陽",
+    "latitude": 35.7710948,
+    "longitude": 139.6456035,
+    "address": "山陽, 赤塚中央通り, 赤塚一丁目, 赤塚, 板橋区, 東京都, 175-0092, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "山越_日本": {
+    "place_name": "山越",
+    "latitude": 42.2311102,
+    "longitude": 140.3269348,
+    "address": "山越, 国道5号, 山越, 八雲町, 二海郡, 渡島総合振興局, 北海道, 049-2671, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "満洲_日本": {
+    "place_name": "満洲",
+    "latitude": null,
+    "longitude": null,
+    "address": null,
+    "geocoded": false,
+    "method": "failed",
+    "confidence": 0.0
+  },
+  "敷島_日本": {
+    "place_name": "敷島",
+    "latitude": 36.5379451,
+    "longitude": 139.0338524,
+    "address": "敷島, 敷島駅前構内, 赤城町敷島, 渋川市, 群馬県, 377-0203, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "さき_日本": {
+    "place_name": "さき",
+    "latitude": 34.662405,
+    "longitude": 133.9218559,
+    "address": "さき, ハレまち通り, 幸町, 北区, 岡山市, 岡山県, 700-0903, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "山陰_日本": {
+    "place_name": "山陰",
+    "latitude": 40.9293709,
+    "longitude": 140.3538643,
+    "address": "山陰, 鯵ヶ沢蟹田線, 大田光, つがる市, 青森県, 038-3303, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "鎌倉_日本": {
+    "place_name": "鎌倉",
+    "latitude": 35.3192808,
+    "longitude": 139.5469627,
+    "address": "鎌倉市, 神奈川県, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "山門_日本": {
+    "place_name": "山門",
+    "latitude": 35.1147868,
+    "longitude": 135.7727728,
+    "address": "山門, 参道, 鞍馬, 左京区, 京都市, 京都府, 601-1111, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "横手_日本": {
+    "place_name": "横手",
+    "latitude": 39.310336,
+    "longitude": 140.5604929,
+    "address": "横手, 東西自由通路こころーど, 駅前町, 横手市, 秋田県, 013-0036, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "日本橋_日本": {
+    "place_name": "日本橋",
+    "latitude": 35.6809246,
+    "longitude": 139.7737947,
+    "address": "日本橋, 中央区, 東京都, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "本道_日本": {
+    "place_name": "本道",
+    "latitude": 36.6035097,
+    "longitude": 138.2072752,
+    "address": "本道, 真島町真島, 長野市, 長野県, 380-0918, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "銀座_日本": {
+    "place_name": "銀座",
+    "latitude": 35.6720135,
+    "longitude": 139.7647202,
+    "address": "銀座, 中央区, 東京都, 104-0061, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "浅草_日本": {
+    "place_name": "浅草",
+    "latitude": 35.7175966,
+    "longitude": 139.7975626,
+    "address": "浅草, 台東区, 東京都, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "木道_日本": {
+    "place_name": "木道",
+    "latitude": 37.9396861,
+    "longitude": 139.3600988,
+    "address": "木道, 金谷, 新発田市, 新潟県, 957-0052, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "渋谷_日本": {
+    "place_name": "渋谷",
+    "latitude": 35.658999,
+    "longitude": 139.7024447,
+    "address": "渋谷, 明治通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-6101, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "上野_日本": {
+    "place_name": "上野",
+    "latitude": 35.7118212,
+    "longitude": 139.7775694,
+    "address": "上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "横浜_日本": {
+    "place_name": "横浜",
+    "latitude": 35.4654023,
+    "longitude": 139.6201294,
+    "address": "横浜, はまりんロード, 南幸一丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "神戸_日本": {
+    "place_name": "神戸",
+    "latitude": 34.6792876,
+    "longitude": 135.1781221,
+    "address": "神戸, 神戸駅前１号線, 相生町四丁目, 中央区, 神戸市, 兵庫県, 650-0025, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "日光_日本": {
+    "place_name": "日光",
+    "latitude": 36.7471805,
+    "longitude": 139.6219414,
+    "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "海道_日本": {
+    "place_name": "海道",
+    "latitude": 35.423254,
+    "longitude": 139.601918,
+    "address": "海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "千葉_日本": {
+    "place_name": "千葉",
+    "latitude": 35.6137344,
+    "longitude": 140.1125333,
+    "address": "千葉, 千葉公園通り, 弁天二丁目, 中央区, 千葉市, 千葉県, 260-0045, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "大阪_日本": {
+    "place_name": "大阪",
+    "latitude": 34.6937569,
+    "longitude": 135.5014539,
+    "address": "大阪市, 大阪府, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  }
+}

@@ -1,0 +1,720 @@
+openapi: 3.0.3
+info:
+  title: 文豪ゆかり地図システム API
+  description: |
+    文豪・作品・舞台（地名）の3階層データを管理し、
+    検索・可視化・GPT関連度判定機能を提供するREST API
+    
+    **主要機能:**
+    - 作者・作品・地名の検索
+    - ジオコーディング・GeoJSONエクスポート
+    - GPT関連度判定（relevance≥0.8のみ可視化）
+    - データ収集・更新パイプライン
+  version: 1.0.0
+  contact:
+    name: Bungo Map System
+    email: bungo-map@example.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+
+servers:
+  - url: https://api.bungo-map.app/v1
+    description: Production API
+  - url: http://localhost:8000/v1
+    description: Development API
+
+tags:
+  - name: Search
+    description: 検索機能（作者・作品・地名）
+  - name: Places
+    description: 地名・座標データ管理
+  - name: Export
+    description: GeoJSONエクスポート
+  - name: GPT
+    description: GPT関連度判定
+  - name: Admin
+    description: データ管理・統計
+
+paths:
+  # 検索エンドポイント
+  /search/authors:
+    get:
+      tags: [Search]
+      summary: 作者検索
+      description: 作者名であいまい検索し、該当作者の作品一覧も返す
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+            minLength: 1
+            maxLength: 100
+          description: 検索クエリ（作者名）
+          example: "夏目漱石"
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 10
+          description: 最大結果数
+        - name: include_works
+          in: query
+          schema:
+            type: boolean
+            default: true
+          description: 作品一覧を含むか
+      responses:
+        '200':
+          description: 検索成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AuthorSearchResponse'
+        '400':
+          description: 無効なパラメータ
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /search/works:
+    get:
+      tags: [Search]
+      summary: 作品検索
+      description: 作品名で検索し、登場地名・抜粋も返す
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+            minLength: 1
+            maxLength: 100
+          description: 検索クエリ（作品名）
+          example: "草枕"
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 10
+        - name: include_places
+          in: query
+          schema:
+            type: boolean
+            default: true
+          description: 地名一覧を含むか
+      responses:
+        '200':
+          description: 検索成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WorkSearchResponse'
+
+  /search/places:
+    get:
+      tags: [Search]
+      summary: 地名検索
+      description: 地名で検索し、作者・作品の逆引きも返す
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+            minLength: 1
+            maxLength: 100
+          description: 検索クエリ（地名）
+          example: "東京"
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 10
+        - name: include_reverse
+          in: query
+          schema:
+            type: boolean
+            default: true
+          description: 作者・作品逆引きを含むか
+      responses:
+        '200':
+          description: 検索成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PlaceSearchResponse'
+
+  # 地名詳細エンドポイント
+  /places:
+    get:
+      tags: [Places]
+      summary: 地名一覧取得
+      description: 全地名またはフィルタ条件による地名一覧取得
+      parameters:
+        - name: author
+          in: query
+          schema:
+            type: string
+          description: 作者名でフィルタ
+        - name: work
+          in: query
+          schema:
+            type: string
+          description: 作品名でフィルタ
+        - name: geocoded_only
+          in: query
+          schema:
+            type: boolean
+            default: false
+          description: ジオコーディング済みのみ
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 1000
+            default: 100
+        - name: offset
+          in: query
+          schema:
+            type: integer
+            minimum: 0
+            default: 0
+      responses:
+        '200':
+          description: 取得成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PlaceListResponse'
+
+  /places/{place_id}:
+    get:
+      tags: [Places]
+      summary: 地名詳細取得
+      parameters:
+        - name: place_id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: 地名ID
+      responses:
+        '200':
+          description: 取得成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PlaceDetail'
+        '404':
+          description: 地名が見つからない
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  # GeoJSONエクスポート
+  /export/geojson:
+    get:
+      tags: [Export]
+      summary: GeoJSONエクスポート
+      description: MapKit対応のGeoJSONデータ出力
+      parameters:
+        - name: author
+          in: query
+          schema:
+            type: string
+          description: 作者名でフィルタ
+        - name: work
+          in: query
+          schema:
+            type: string
+          description: 作品名でフィルタ
+        - name: relevance_threshold
+          in: query
+          schema:
+            type: number
+            minimum: 0.0
+            maximum: 1.0
+            default: 0.8
+          description: GPT関連度判定の閾値（この値以上のみ出力）
+      responses:
+        '200':
+          description: GeoJSON出力成功
+          content:
+            application/geo+json:
+              schema:
+                $ref: '#/components/schemas/GeoJSONFeatureCollection'
+
+  # GPT関連度判定
+  /gpt/relevance:
+    post:
+      tags: [GPT]
+      summary: GPT関連度判定
+      description: 地名・文脈・作品の関連度をGPTで判定（0.0-1.0）
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RelevanceRequest'
+      responses:
+        '200':
+          description: 判定成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RelevanceResponse'
+        '400':
+          description: 無効な入力
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /gpt/batch-relevance:
+    post:
+      tags: [GPT]
+      summary: GPT関連度一括判定
+      description: 複数の地名・文脈ペアを一括で関連度判定
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BatchRelevanceRequest'
+      responses:
+        '200':
+          description: 判定成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BatchRelevanceResponse'
+
+  # 統計・管理
+  /stats:
+    get:
+      tags: [Admin]
+      summary: データベース統計取得
+      responses:
+        '200':
+          description: 統計取得成功
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/StatsResponse'
+
+  /health:
+    get:
+      tags: [Admin]
+      summary: ヘルスチェック
+      responses:
+        '200':
+          description: 正常稼働
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    enum: [ok]
+                  timestamp:
+                    type: string
+                    format: date-time
+                  version:
+                    type: string
+
+components:
+  schemas:
+    # 基本エンティティ
+    Author:
+      type: object
+      properties:
+        author_id:
+          type: integer
+          description: 作者ID
+        name:
+          type: string
+          description: 作者名
+        birth_year:
+          type: integer
+          nullable: true
+          description: 生年
+        death_year:
+          type: integer
+          nullable: true
+          description: 没年
+        wikipedia_url:
+          type: string
+          nullable: true
+          description: Wikipedia URL
+
+    Work:
+      type: object
+      properties:
+        work_id:
+          type: integer
+          description: 作品ID
+        author_id:
+          type: integer
+          description: 作者ID
+        author_name:
+          type: string
+          description: 作者名
+        title:
+          type: string
+          description: 作品タイトル
+        publication_year:
+          type: integer
+          nullable: true
+          description: 刊行年
+        genre:
+          type: string
+          nullable: true
+          description: ジャンル
+        aozora_url:
+          type: string
+          nullable: true
+          description: 青空文庫URL
+
+    Place:
+      type: object
+      properties:
+        place_id:
+          type: integer
+          description: 地名ID
+        work_id:
+          type: integer
+          description: 作品ID
+        place_name:
+          type: string
+          description: 地名
+        latitude:
+          type: number
+          nullable: true
+          description: 緯度
+        longitude:
+          type: number
+          nullable: true
+          description: 経度
+        address:
+          type: string
+          nullable: true
+          description: 住所
+        sentence:
+          type: string
+          description: 該当文
+        before_text:
+          type: string
+          nullable: true
+          description: 前文
+        after_text:
+          type: string
+          nullable: true
+          description: 後文
+        relevance_score:
+          type: number
+          nullable: true
+          minimum: 0.0
+          maximum: 1.0
+          description: GPT関連度スコア
+
+    PlaceDetail:
+      allOf:
+        - $ref: '#/components/schemas/Place'
+        - type: object
+          properties:
+            author_name:
+              type: string
+              description: 作者名
+            work_title:
+              type: string
+              description: 作品タイトル
+            maps_url:
+              type: string
+              nullable: true
+              description: Google Maps URL
+
+    # 検索レスポンス
+    AuthorSearchResponse:
+      type: object
+      properties:
+        authors:
+          type: array
+          items:
+            $ref: '#/components/schemas/Author'
+        works:
+          type: array
+          items:
+            $ref: '#/components/schemas/Work'
+          description: 該当作者の作品一覧
+        execution_time:
+          type: number
+          description: 実行時間（秒）
+        total_count:
+          type: integer
+          description: 総ヒット数
+
+    WorkSearchResponse:
+      type: object
+      properties:
+        works:
+          type: array
+          items:
+            $ref: '#/components/schemas/Work'
+        places:
+          type: array
+          items:
+            $ref: '#/components/schemas/PlaceDetail'
+          description: 該当作品の地名一覧
+        execution_time:
+          type: number
+          description: 実行時間（秒）
+        total_count:
+          type: integer
+          description: 総ヒット数
+
+    PlaceSearchResponse:
+      type: object
+      properties:
+        places:
+          type: array
+          items:
+            $ref: '#/components/schemas/PlaceDetail'
+        authors:
+          type: array
+          items:
+            type: string
+          description: 関連作者一覧
+        works:
+          type: array
+          items:
+            type: object
+            properties:
+              author_name:
+                type: string
+              title:
+                type: string
+          description: 関連作品一覧
+        execution_time:
+          type: number
+          description: 実行時間（秒）
+        total_count:
+          type: integer
+          description: 総ヒット数
+
+    PlaceListResponse:
+      type: object
+      properties:
+        places:
+          type: array
+          items:
+            $ref: '#/components/schemas/PlaceDetail'
+        pagination:
+          type: object
+          properties:
+            total:
+              type: integer
+            limit:
+              type: integer
+            offset:
+              type: integer
+            has_more:
+              type: boolean
+
+    # GeoJSON
+    GeoJSONFeatureCollection:
+      type: object
+      properties:
+        type:
+          type: string
+          enum: [FeatureCollection]
+        features:
+          type: array
+          items:
+            $ref: '#/components/schemas/GeoJSONFeature'
+
+    GeoJSONFeature:
+      type: object
+      properties:
+        type:
+          type: string
+          enum: [Feature]
+        geometry:
+          $ref: '#/components/schemas/GeoJSONPoint'
+        properties:
+          type: object
+          properties:
+            place_id:
+              type: integer
+            place_name:
+              type: string
+            author_name:
+              type: string
+            work_title:
+              type: string
+            sentence:
+              type: string
+            address:
+              type: string
+            relevance_score:
+              type: number
+            maps_url:
+              type: string
+
+    GeoJSONPoint:
+      type: object
+      properties:
+        type:
+          type: string
+          enum: [Point]
+        coordinates:
+          type: array
+          items:
+            type: number
+          minItems: 2
+          maxItems: 2
+          description: "[longitude, latitude]"
+
+    # GPT関連度判定
+    RelevanceRequest:
+      type: object
+      required:
+        - place_name
+        - sentence
+        - work_title
+        - author_name
+      properties:
+        place_name:
+          type: string
+          description: 地名
+        sentence:
+          type: string
+          description: 該当文
+        work_title:
+          type: string
+          description: 作品タイトル
+        author_name:
+          type: string
+          description: 作者名
+        context:
+          type: string
+          nullable: true
+          description: 追加文脈
+
+    RelevanceResponse:
+      type: object
+      properties:
+        relevance_score:
+          type: number
+          minimum: 0.0
+          maximum: 1.0
+          description: 関連度スコア
+        is_relevant:
+          type: boolean
+          description: 閾値（0.8）以上か
+        reasoning:
+          type: string
+          description: 判定理由
+        execution_time:
+          type: number
+          description: 実行時間（秒）
+
+    BatchRelevanceRequest:
+      type: object
+      required:
+        - items
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/RelevanceRequest'
+          maxItems: 100
+          description: 一括判定対象
+
+    BatchRelevanceResponse:
+      type: object
+      properties:
+        results:
+          type: array
+          items:
+            allOf:
+              - $ref: '#/components/schemas/RelevanceResponse'
+              - type: object
+                properties:
+                  index:
+                    type: integer
+                    description: 入力配列でのインデックス
+        total_count:
+          type: integer
+          description: 総件数
+        relevant_count:
+          type: integer
+          description: 関連度≥0.8の件数
+        execution_time:
+          type: number
+          description: 実行時間（秒）
+
+    # 統計・エラー
+    StatsResponse:
+      type: object
+      properties:
+        authors_count:
+          type: integer
+          description: 作者数
+        works_count:
+          type: integer
+          description: 作品数
+        places_count:
+          type: integer
+          description: 地名数
+        geocoded_count:
+          type: integer
+          description: ジオコーディング済み地名数
+        geocoded_rate:
+          type: number
+          description: ジオコーディング率（%）
+        relevant_places_count:
+          type: integer
+          description: 関連度≥0.8の地名数
+        last_updated:
+          type: string
+          format: date-time
+          description: 最終更新日時
+
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: object
+          properties:
+            code:
+              type: string
+              description: エラーコード
+            message:
+              type: string
+              description: エラーメッセージ
+            details:
+              type: string
+              nullable: true
+              description: 詳細情報
+
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-API-Key
+      description: API キー認証
+
+security:
+  - ApiKeyAuth: [] 

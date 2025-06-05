@@ -1,0 +1,2773 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generator": "bungo_places_exporter",
+    "generated_at": "2025-06-05T04:21:03.247392",
+    "total_features": 92,
+    "authors": 8,
+    "works": 24,
+    "places": 9
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 4,
+        "place_name": "京都",
+        "author_name": "夏目漱石",
+        "work_title": "三四郎",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『三四郎』",
+        "subtitle": "京都",
+        "description": "📚 夏目漱石『三四郎』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 3,
+        "place_name": "東京",
+        "author_name": "夏目漱石",
+        "work_title": "三四郎",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『三四郎』",
+        "subtitle": "東京",
+        "description": "📚 夏目漱石『三四郎』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 6,
+        "place_name": "箱根",
+        "author_name": "夏目漱石",
+        "work_title": "三四郎",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『三四郎』",
+        "subtitle": "箱根",
+        "description": "📚 夏目漱石『三四郎』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 5,
+        "place_name": "鎌倉市",
+        "author_name": "夏目漱石",
+        "work_title": "三四郎",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『三四郎』",
+        "subtitle": "鎌倉市",
+        "description": "📚 夏目漱石『三四郎』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 8,
+        "place_name": "京都",
+        "author_name": "夏目漱石",
+        "work_title": "吾輩は猫である",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "東京の本郷あたりの書生の家で飼われることになった。",
+        "after_text": "",
+        "context": "【東京の本郷あたりの書生の家で飼われることになった。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『吾輩は猫である』",
+        "subtitle": "京都",
+        "description": "📚 夏目漱石『吾輩は猫である』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【東京の本郷あたりの書生の家で飼われることになった。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760167,
+          35.7077379
+        ]
+      },
+      "properties": {
+        "place_id": 9,
+        "place_name": "本郷",
+        "author_name": "夏目漱石",
+        "work_title": "吾輩は猫である",
+        "address": "本郷, 文京区, 東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9C%AC%E9%83%B7",
+        "before_text": "",
+        "sentence": "東京の本郷あたりの書生の家で飼われることになった。",
+        "after_text": "",
+        "context": "【東京の本郷あたりの書生の家で飼われることになった。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『吾輩は猫である』",
+        "subtitle": "本郷",
+        "description": "📚 夏目漱石『吾輩は猫である』\n📍 本郷, 文京区, 東京都, 日本\n💭 【東京の本郷あたりの書生の家で飼われることになった。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 7,
+        "place_name": "東京",
+        "author_name": "夏目漱石",
+        "work_title": "吾輩は猫である",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "東京の本郷あたりの書生の家で飼われることになった。",
+        "after_text": "",
+        "context": "【東京の本郷あたりの書生の家で飼われることになった。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『吾輩は猫である』",
+        "subtitle": "東京",
+        "description": "📚 夏目漱石『吾輩は猫である』\n📍 東京都, 日本\n💭 【東京の本郷あたりの書生の家で飼われることになった。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7653521,
+          33.83951879999999
+        ]
+      },
+      "properties": {
+        "place_id": 1,
+        "place_name": "松山市",
+        "author_name": "夏目漱石",
+        "work_title": "坊っちゃん",
+        "address": "松山市, 愛媛県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%BE%E5%B1%B1%E5%B8%82",
+        "before_text": "",
+        "sentence": "四国は松山の中学校に数学の教師として赴任することになった。",
+        "after_text": "",
+        "context": "【四国は松山の中学校に数学の教師として赴任することになった。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『坊っちゃん』",
+        "subtitle": "松山市",
+        "description": "📚 夏目漱石『坊っちゃん』\n📍 松山市, 愛媛県, 日本\n💭 【四国は松山の中学校に数学の教師として赴任することになった。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7850817,
+          33.8504258
+        ]
+      },
+      "properties": {
+        "place_id": 2,
+        "place_name": "道後温泉",
+        "author_name": "夏目漱石",
+        "work_title": "坊っちゃん",
+        "address": "道後温泉, 道後温泉商店街, 道後湯之町, 松山市, 愛媛県, 790-0842, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89",
+        "before_text": "",
+        "sentence": "松山の街を歩いていると、道後温泉の湯けむりが見える。",
+        "after_text": "",
+        "context": "【松山の街を歩いていると、道後温泉の湯けむりが見える。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『坊っちゃん』",
+        "subtitle": "道後温泉",
+        "description": "📚 夏目漱石『坊っちゃん』\n📍 道後温泉, 道後温泉商店街, 道後湯之町, 松山市, 愛媛県, 790-0842, 日本\n💭 【松山の街を歩いていると、道後温泉の湯けむりが見える。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 22,
+        "place_name": "京都",
+        "author_name": "太宰治",
+        "work_title": "人間失格",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『人間失格』",
+        "subtitle": "京都",
+        "description": "📚 太宰治『人間失格』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 21,
+        "place_name": "東京",
+        "author_name": "太宰治",
+        "work_title": "人間失格",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『人間失格』",
+        "subtitle": "東京",
+        "description": "📚 太宰治『人間失格』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 24,
+        "place_name": "箱根",
+        "author_name": "太宰治",
+        "work_title": "人間失格",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『人間失格』",
+        "subtitle": "箱根",
+        "description": "📚 太宰治『人間失格』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 23,
+        "place_name": "鎌倉市",
+        "author_name": "太宰治",
+        "work_title": "人間失格",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『人間失格』",
+        "subtitle": "鎌倉市",
+        "description": "📚 太宰治『人間失格』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 26,
+        "place_name": "京都",
+        "author_name": "太宰治",
+        "work_title": "津軽",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『津軽』",
+        "subtitle": "京都",
+        "description": "📚 太宰治『津軽』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 25,
+        "place_name": "東京",
+        "author_name": "太宰治",
+        "work_title": "津軽",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『津軽』",
+        "subtitle": "東京",
+        "description": "📚 太宰治『津軽』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 28,
+        "place_name": "箱根",
+        "author_name": "太宰治",
+        "work_title": "津軽",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『津軽』",
+        "subtitle": "箱根",
+        "description": "📚 太宰治『津軽』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 27,
+        "place_name": "鎌倉市",
+        "author_name": "太宰治",
+        "work_title": "津軽",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『津軽』",
+        "subtitle": "鎌倉市",
+        "description": "📚 太宰治『津軽』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 30,
+        "place_name": "京都",
+        "author_name": "太宰治",
+        "work_title": "走れメロス",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『走れメロス』",
+        "subtitle": "京都",
+        "description": "📚 太宰治『走れメロス』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 29,
+        "place_name": "東京",
+        "author_name": "太宰治",
+        "work_title": "走れメロス",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『走れメロス』",
+        "subtitle": "東京",
+        "description": "📚 太宰治『走れメロス』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 32,
+        "place_name": "箱根",
+        "author_name": "太宰治",
+        "work_title": "走れメロス",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『走れメロス』",
+        "subtitle": "箱根",
+        "description": "📚 太宰治『走れメロス』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 31,
+        "place_name": "鎌倉市",
+        "author_name": "太宰治",
+        "work_title": "走れメロス",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『走れメロス』",
+        "subtitle": "鎌倉市",
+        "description": "📚 太宰治『走れメロス』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 54,
+        "place_name": "京都",
+        "author_name": "宮沢賢治",
+        "work_title": "家なき子",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『家なき子』",
+        "subtitle": "京都",
+        "description": "📚 宮沢賢治『家なき子』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 53,
+        "place_name": "東京",
+        "author_name": "宮沢賢治",
+        "work_title": "家なき子",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『家なき子』",
+        "subtitle": "東京",
+        "description": "📚 宮沢賢治『家なき子』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 56,
+        "place_name": "箱根",
+        "author_name": "宮沢賢治",
+        "work_title": "家なき子",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『家なき子』",
+        "subtitle": "箱根",
+        "description": "📚 宮沢賢治『家なき子』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 55,
+        "place_name": "鎌倉市",
+        "author_name": "宮沢賢治",
+        "work_title": "家なき子",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『家なき子』",
+        "subtitle": "鎌倉市",
+        "description": "📚 宮沢賢治『家なき子』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 50,
+        "place_name": "京都",
+        "author_name": "宮沢賢治",
+        "work_title": "未だ見ぬ親",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『未だ見ぬ親』",
+        "subtitle": "京都",
+        "description": "📚 宮沢賢治『未だ見ぬ親』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 49,
+        "place_name": "東京",
+        "author_name": "宮沢賢治",
+        "work_title": "未だ見ぬ親",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『未だ見ぬ親』",
+        "subtitle": "東京",
+        "description": "📚 宮沢賢治『未だ見ぬ親』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 52,
+        "place_name": "箱根",
+        "author_name": "宮沢賢治",
+        "work_title": "未だ見ぬ親",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『未だ見ぬ親』",
+        "subtitle": "箱根",
+        "description": "📚 宮沢賢治『未だ見ぬ親』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 51,
+        "place_name": "鎌倉市",
+        "author_name": "宮沢賢治",
+        "work_title": "未だ見ぬ親",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『未だ見ぬ親』",
+        "subtitle": "鎌倉市",
+        "description": "📚 宮沢賢治『未だ見ぬ親』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 46,
+        "place_name": "京都",
+        "author_name": "宮沢賢治",
+        "work_title": "海に塩のあるわけ",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『海に塩のあるわけ』",
+        "subtitle": "京都",
+        "description": "📚 宮沢賢治『海に塩のあるわけ』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 45,
+        "place_name": "東京",
+        "author_name": "宮沢賢治",
+        "work_title": "海に塩のあるわけ",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『海に塩のあるわけ』",
+        "subtitle": "東京",
+        "description": "📚 宮沢賢治『海に塩のあるわけ』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 48,
+        "place_name": "箱根",
+        "author_name": "宮沢賢治",
+        "work_title": "海に塩のあるわけ",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『海に塩のあるわけ』",
+        "subtitle": "箱根",
+        "description": "📚 宮沢賢治『海に塩のあるわけ』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 47,
+        "place_name": "鎌倉市",
+        "author_name": "宮沢賢治",
+        "work_title": "海に塩のあるわけ",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "宮沢賢治『海に塩のあるわけ』",
+        "subtitle": "鎌倉市",
+        "description": "📚 宮沢賢治『海に塩のあるわけ』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 38,
+        "place_name": "京都",
+        "author_name": "川端康成",
+        "work_title": "伊豆の踊子",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『伊豆の踊子』",
+        "subtitle": "京都",
+        "description": "📚 川端康成『伊豆の踊子』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 37,
+        "place_name": "東京",
+        "author_name": "川端康成",
+        "work_title": "伊豆の踊子",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『伊豆の踊子』",
+        "subtitle": "東京",
+        "description": "📚 川端康成『伊豆の踊子』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 40,
+        "place_name": "箱根",
+        "author_name": "川端康成",
+        "work_title": "伊豆の踊子",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『伊豆の踊子』",
+        "subtitle": "箱根",
+        "description": "📚 川端康成『伊豆の踊子』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 39,
+        "place_name": "鎌倉市",
+        "author_name": "川端康成",
+        "work_title": "伊豆の踊子",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『伊豆の踊子』",
+        "subtitle": "鎌倉市",
+        "description": "📚 川端康成『伊豆の踊子』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 42,
+        "place_name": "京都",
+        "author_name": "川端康成",
+        "work_title": "抒情歌",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『抒情歌』",
+        "subtitle": "京都",
+        "description": "📚 川端康成『抒情歌』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 41,
+        "place_name": "東京",
+        "author_name": "川端康成",
+        "work_title": "抒情歌",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『抒情歌』",
+        "subtitle": "東京",
+        "description": "📚 川端康成『抒情歌』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 44,
+        "place_name": "箱根",
+        "author_name": "川端康成",
+        "work_title": "抒情歌",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『抒情歌』",
+        "subtitle": "箱根",
+        "description": "📚 川端康成『抒情歌』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 43,
+        "place_name": "鎌倉市",
+        "author_name": "川端康成",
+        "work_title": "抒情歌",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『抒情歌』",
+        "subtitle": "鎌倉市",
+        "description": "📚 川端康成『抒情歌』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 34,
+        "place_name": "京都",
+        "author_name": "川端康成",
+        "work_title": "浅草紅団",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『浅草紅団』",
+        "subtitle": "京都",
+        "description": "📚 川端康成『浅草紅団』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 33,
+        "place_name": "東京",
+        "author_name": "川端康成",
+        "work_title": "浅草紅団",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『浅草紅団』",
+        "subtitle": "東京",
+        "description": "📚 川端康成『浅草紅団』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 36,
+        "place_name": "箱根",
+        "author_name": "川端康成",
+        "work_title": "浅草紅団",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『浅草紅団』",
+        "subtitle": "箱根",
+        "description": "📚 川端康成『浅草紅団』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 35,
+        "place_name": "鎌倉市",
+        "author_name": "川端康成",
+        "work_title": "浅草紅団",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『浅草紅団』",
+        "subtitle": "鎌倉市",
+        "description": "📚 川端康成『浅草紅団』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 74,
+        "place_name": "京都",
+        "author_name": "森鴎外",
+        "work_title": "しがらみ草紙",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『しがらみ草紙』",
+        "subtitle": "京都",
+        "description": "📚 森鴎外『しがらみ草紙』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 73,
+        "place_name": "東京",
+        "author_name": "森鴎外",
+        "work_title": "しがらみ草紙",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『しがらみ草紙』",
+        "subtitle": "東京",
+        "description": "📚 森鴎外『しがらみ草紙』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 76,
+        "place_name": "箱根",
+        "author_name": "森鴎外",
+        "work_title": "しがらみ草紙",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『しがらみ草紙』",
+        "subtitle": "箱根",
+        "description": "📚 森鴎外『しがらみ草紙』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 75,
+        "place_name": "鎌倉市",
+        "author_name": "森鴎外",
+        "work_title": "しがらみ草紙",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『しがらみ草紙』",
+        "subtitle": "鎌倉市",
+        "description": "📚 森鴎外『しがらみ草紙』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 70,
+        "place_name": "京都",
+        "author_name": "森鴎外",
+        "work_title": "スバル",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『スバル』",
+        "subtitle": "京都",
+        "description": "📚 森鴎外『スバル』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 69,
+        "place_name": "東京",
+        "author_name": "森鴎外",
+        "work_title": "スバル",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『スバル』",
+        "subtitle": "東京",
+        "description": "📚 森鴎外『スバル』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 72,
+        "place_name": "箱根",
+        "author_name": "森鴎外",
+        "work_title": "スバル",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『スバル』",
+        "subtitle": "箱根",
+        "description": "📚 森鴎外『スバル』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 71,
+        "place_name": "鎌倉市",
+        "author_name": "森鴎外",
+        "work_title": "スバル",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『スバル』",
+        "subtitle": "鎌倉市",
+        "description": "📚 森鴎外『スバル』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 78,
+        "place_name": "京都",
+        "author_name": "森鴎外",
+        "work_title": "論語",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『論語』",
+        "subtitle": "京都",
+        "description": "📚 森鴎外『論語』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 77,
+        "place_name": "東京",
+        "author_name": "森鴎外",
+        "work_title": "論語",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『論語』",
+        "subtitle": "東京",
+        "description": "📚 森鴎外『論語』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 80,
+        "place_name": "箱根",
+        "author_name": "森鴎外",
+        "work_title": "論語",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『論語』",
+        "subtitle": "箱根",
+        "description": "📚 森鴎外『論語』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 79,
+        "place_name": "鎌倉市",
+        "author_name": "森鴎外",
+        "work_title": "論語",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "森鴎外『論語』",
+        "subtitle": "鎌倉市",
+        "description": "📚 森鴎外『論語』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 58,
+        "place_name": "京都",
+        "author_name": "樋口一葉",
+        "work_title": "たけくらべ",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『たけくらべ』",
+        "subtitle": "京都",
+        "description": "📚 樋口一葉『たけくらべ』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 57,
+        "place_name": "東京",
+        "author_name": "樋口一葉",
+        "work_title": "たけくらべ",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『たけくらべ』",
+        "subtitle": "東京",
+        "description": "📚 樋口一葉『たけくらべ』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 60,
+        "place_name": "箱根",
+        "author_name": "樋口一葉",
+        "work_title": "たけくらべ",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『たけくらべ』",
+        "subtitle": "箱根",
+        "description": "📚 樋口一葉『たけくらべ』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 59,
+        "place_name": "鎌倉市",
+        "author_name": "樋口一葉",
+        "work_title": "たけくらべ",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『たけくらべ』",
+        "subtitle": "鎌倉市",
+        "description": "📚 樋口一葉『たけくらべ』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 66,
+        "place_name": "京都",
+        "author_name": "樋口一葉",
+        "work_title": "にごりえ",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『にごりえ』",
+        "subtitle": "京都",
+        "description": "📚 樋口一葉『にごりえ』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 65,
+        "place_name": "東京",
+        "author_name": "樋口一葉",
+        "work_title": "にごりえ",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『にごりえ』",
+        "subtitle": "東京",
+        "description": "📚 樋口一葉『にごりえ』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 68,
+        "place_name": "箱根",
+        "author_name": "樋口一葉",
+        "work_title": "にごりえ",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『にごりえ』",
+        "subtitle": "箱根",
+        "description": "📚 樋口一葉『にごりえ』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 67,
+        "place_name": "鎌倉市",
+        "author_name": "樋口一葉",
+        "work_title": "にごりえ",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『にごりえ』",
+        "subtitle": "鎌倉市",
+        "description": "📚 樋口一葉『にごりえ』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 62,
+        "place_name": "京都",
+        "author_name": "樋口一葉",
+        "work_title": "十三夜",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『十三夜』",
+        "subtitle": "京都",
+        "description": "📚 樋口一葉『十三夜』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 61,
+        "place_name": "東京",
+        "author_name": "樋口一葉",
+        "work_title": "十三夜",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『十三夜』",
+        "subtitle": "東京",
+        "description": "📚 樋口一葉『十三夜』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 64,
+        "place_name": "箱根",
+        "author_name": "樋口一葉",
+        "work_title": "十三夜",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『十三夜』",
+        "subtitle": "箱根",
+        "description": "📚 樋口一葉『十三夜』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 63,
+        "place_name": "鎌倉市",
+        "author_name": "樋口一葉",
+        "work_title": "十三夜",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『十三夜』",
+        "subtitle": "鎌倉市",
+        "description": "📚 樋口一葉『十三夜』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 82,
+        "place_name": "京都",
+        "author_name": "石川啄木",
+        "work_title": "一握の砂",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『一握の砂』",
+        "subtitle": "京都",
+        "description": "📚 石川啄木『一握の砂』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 81,
+        "place_name": "東京",
+        "author_name": "石川啄木",
+        "work_title": "一握の砂",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『一握の砂』",
+        "subtitle": "東京",
+        "description": "📚 石川啄木『一握の砂』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 84,
+        "place_name": "箱根",
+        "author_name": "石川啄木",
+        "work_title": "一握の砂",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『一握の砂』",
+        "subtitle": "箱根",
+        "description": "📚 石川啄木『一握の砂』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 83,
+        "place_name": "鎌倉市",
+        "author_name": "石川啄木",
+        "work_title": "一握の砂",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『一握の砂』",
+        "subtitle": "鎌倉市",
+        "description": "📚 石川啄木『一握の砂』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 86,
+        "place_name": "京都",
+        "author_name": "石川啄木",
+        "work_title": "明星",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『明星』",
+        "subtitle": "京都",
+        "description": "📚 石川啄木『明星』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 85,
+        "place_name": "東京",
+        "author_name": "石川啄木",
+        "work_title": "明星",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『明星』",
+        "subtitle": "東京",
+        "description": "📚 石川啄木『明星』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 88,
+        "place_name": "箱根",
+        "author_name": "石川啄木",
+        "work_title": "明星",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『明星』",
+        "subtitle": "箱根",
+        "description": "📚 石川啄木『明星』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 87,
+        "place_name": "鎌倉市",
+        "author_name": "石川啄木",
+        "work_title": "明星",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『明星』",
+        "subtitle": "鎌倉市",
+        "description": "📚 石川啄木『明星』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 90,
+        "place_name": "京都",
+        "author_name": "石川啄木",
+        "work_title": "黄草集",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『黄草集』",
+        "subtitle": "京都",
+        "description": "📚 石川啄木『黄草集』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 89,
+        "place_name": "東京",
+        "author_name": "石川啄木",
+        "work_title": "黄草集",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『黄草集』",
+        "subtitle": "東京",
+        "description": "📚 石川啄木『黄草集』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 92,
+        "place_name": "箱根",
+        "author_name": "石川啄木",
+        "work_title": "黄草集",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『黄草集』",
+        "subtitle": "箱根",
+        "description": "📚 石川啄木『黄草集』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 91,
+        "place_name": "鎌倉市",
+        "author_name": "石川啄木",
+        "work_title": "黄草集",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "石川啄木『黄草集』",
+        "subtitle": "鎌倉市",
+        "description": "📚 石川啄木『黄草集』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 15,
+        "place_name": "京都",
+        "author_name": "芥川龍之介",
+        "work_title": "地獄変",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『地獄変』",
+        "subtitle": "京都",
+        "description": "📚 芥川龍之介『地獄変』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 14,
+        "place_name": "東京",
+        "author_name": "芥川龍之介",
+        "work_title": "地獄変",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『地獄変』",
+        "subtitle": "東京",
+        "description": "📚 芥川龍之介『地獄変』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 17,
+        "place_name": "箱根",
+        "author_name": "芥川龍之介",
+        "work_title": "地獄変",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『地獄変』",
+        "subtitle": "箱根",
+        "description": "📚 芥川龍之介『地獄変』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 16,
+        "place_name": "鎌倉市",
+        "author_name": "芥川龍之介",
+        "work_title": "地獄変",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『地獄変』",
+        "subtitle": "鎌倉市",
+        "description": "📚 芥川龍之介『地獄変』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 18,
+        "place_name": "京都",
+        "author_name": "芥川龍之介",
+        "work_title": "羅生門",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "平安京の荒廃した都で、男は生きる道を模索していた。",
+        "after_text": "",
+        "context": "【平安京の荒廃した都で、男は生きる道を模索していた。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『羅生門』",
+        "subtitle": "京都",
+        "description": "📚 芥川龍之介『羅生門』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【平安京の荒廃した都で、男は生きる道を模索していた。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681,
+          35.0116
+        ]
+      },
+      "properties": {
+        "place_id": 20,
+        "place_name": "平安京",
+        "author_name": "芥川龍之介",
+        "work_title": "羅生門",
+        "address": "京都府京都市, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E5%B9%B3%E5%AE%89%E4%BA%AC",
+        "before_text": "",
+        "sentence": "平安京の荒廃した都で、男は生きる道を模索していた。",
+        "after_text": "",
+        "context": "【平安京の荒廃した都で、男は生きる道を模索していた。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『羅生門』",
+        "subtitle": "平安京",
+        "description": "📚 芥川龍之介『羅生門』\n📍 京都府京都市, 日本\n💭 【平安京の荒廃した都で、男は生きる道を模索していた。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7207796,
+          35.6896076
+        ]
+      },
+      "properties": {
+        "place_id": 19,
+        "place_name": "羅生門",
+        "author_name": "芥川龍之介",
+        "work_title": "羅生門",
+        "address": "羅生門, 外苑東通り, 舟町, 四谷, 新宿区, 東京都, 160-8484, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%BE%85%E7%94%9F%E9%96%80",
+        "before_text": "",
+        "sentence": "一人の下人が羅生門の下で雨やみを待っていた。",
+        "after_text": "",
+        "context": "【一人の下人が羅生門の下で雨やみを待っていた。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『羅生門』",
+        "subtitle": "羅生門",
+        "description": "📚 芥川龍之介『羅生門』\n📍 羅生門, 外苑東通り, 舟町, 四谷, 新宿区, 東京都, 160-8484, 日本\n💭 【一人の下人が羅生門の下で雨やみを待っていた。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75876599999998,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 11,
+        "place_name": "京都",
+        "author_name": "芥川龍之介",
+        "work_title": "鼻",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E4%BA%AC%E9%83%BD",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『鼻』",
+        "subtitle": "京都",
+        "description": "📚 芥川龍之介『鼻』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76389469999998,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 10,
+        "place_name": "東京",
+        "author_name": "芥川龍之介",
+        "work_title": "鼻",
+        "address": "東京都, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E6%9D%B1%E4%BA%AC",
+        "before_text": "",
+        "sentence": "物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。",
+        "after_text": "",
+        "context": "【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『鼻』",
+        "subtitle": "東京",
+        "description": "📚 芥川龍之介『鼻』\n📍 東京都, 日本\n💭 【物語は東京を舞台に展開され、主人公は様々な場所を巡る旅に出ます。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 13,
+        "place_name": "箱根",
+        "author_name": "芥川龍之介",
+        "work_title": "鼻",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E7%AE%B1%E6%A0%B9",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『鼻』",
+        "subtitle": "箱根",
+        "description": "📚 芥川龍之介『鼻』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.319280799999994
+        ]
+      },
+      "properties": {
+        "place_id": 12,
+        "place_name": "鎌倉市",
+        "author_name": "芥川龍之介",
+        "work_title": "鼻",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": "https://www.google.com/maps/search/%E9%8E%8C%E5%80%89%E5%B8%82",
+        "before_text": "",
+        "sentence": "京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。",
+        "after_text": "",
+        "context": "【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】",
+        "extraction_method": "legacy_llm",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『鼻』",
+        "subtitle": "鎌倉市",
+        "description": "📚 芥川龍之介『鼻』\n📍 鎌倉市, 神奈川県, 日本\n💭 【京都の古い寺院や、鎌倉の海岸、箱根の温泉地など、\n日本各地の美しい風景が作品の重要な背景として描かれています。】\n🎯 信頼度: 0.8"
+      }
+    }
+  ]
+}
