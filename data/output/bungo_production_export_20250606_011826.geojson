@@ -1,0 +1,2683 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generator": "bungo_places_exporter",
+    "generated_at": "2025-06-06T01:18:26.072344",
+    "total_features": 89,
+    "authors": 15,
+    "works": 28,
+    "places": 38
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 43,
+        "place_name": "日光",
+        "author_name": "三島由紀夫",
+        "work_title": "虚弱",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000022/files/4873_14006.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "三島由紀夫『虚弱』",
+        "subtitle": "日光",
+        "description": "📚 三島由紀夫『虚弱』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 42,
+        "place_name": "日光",
+        "author_name": "三島由紀夫",
+        "work_title": "解剖室",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000022/files/410_22625.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "三島由紀夫『解剖室』",
+        "subtitle": "日光",
+        "description": "📚 三島由紀夫『解剖室』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7776069,
+          35.7118219
+        ]
+      },
+      "properties": {
+        "place_id": 14,
+        "place_name": "上野",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "上野",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 17,
+        "place_name": "日光",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "日光",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3606113,
+          37.9400174
+        ]
+      },
+      "properties": {
+        "place_id": 11,
+        "place_name": "木道",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "木道, 金谷, 新発田市, 新潟県, 957-0052, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "木道",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 木道, 金谷, 新発田市, 新潟県, 957-0052, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2072752,
+          36.6035097
+        ]
+      },
+      "properties": {
+        "place_id": 12,
+        "place_name": "本道",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "本道, 川合川中島線, 真島町真島, 長野市, 長野県, 381-2298, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "本道",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 本道, 川合川中島線, 真島町真島, 長野市, 長野県, 381-2298, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "place_id": 15,
+        "place_name": "横浜",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "横浜",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7024447,
+          35.658999
+        ]
+      },
+      "properties": {
+        "place_id": 13,
+        "place_name": "渋谷",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "渋谷, 明治通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-6101, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "渋谷",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 渋谷, 明治通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-6101, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1782824,
+          34.6792884
+        ]
+      },
+      "properties": {
+        "place_id": 16,
+        "place_name": "神戸",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集",
+        "address": "神戸, 盲学校専用通学路, 相生町三丁目, 中央区, 神戸市, 兵庫県, 650-0025, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2557_15784.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集』",
+        "subtitle": "神戸",
+        "description": "📚 与謝野晶子『晶子詩篇全集』\n📍 神戸, 盲学校専用通学路, 相生町三丁目, 中央区, 神戸市, 兵庫県, 650-0025, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1125333,
+          35.6137344
+        ]
+      },
+      "properties": {
+        "place_id": 22,
+        "place_name": "千葉",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集拾遺",
+        "address": "千葉, 千葉公園通り, 弁天二丁目, 中央区, 千葉市, 千葉県, 260-0045, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2558_15785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集拾遺』",
+        "subtitle": "千葉",
+        "description": "📚 与謝野晶子『晶子詩篇全集拾遺』\n📍 千葉, 千葉公園通り, 弁天二丁目, 中央区, 千葉市, 千葉県, 260-0045, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 23,
+        "place_name": "日光",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集拾遺",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2558_15785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集拾遺』",
+        "subtitle": "日光",
+        "description": "📚 与謝野晶子『晶子詩篇全集拾遺』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "place_id": 21,
+        "place_name": "横浜",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集拾遺",
+        "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2558_15785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集拾遺』",
+        "subtitle": "横浜",
+        "description": "📚 与謝野晶子『晶子詩篇全集拾遺』\n📍 横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7975626,
+          35.7175966
+        ]
+      },
+      "properties": {
+        "place_id": 20,
+        "place_name": "浅草",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集拾遺",
+        "address": "浅草, 台東区, 東京都, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2558_15785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集拾遺』",
+        "subtitle": "浅草",
+        "description": "📚 与謝野晶子『晶子詩篇全集拾遺』\n📍 浅草, 台東区, 東京都, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601918,
+          35.423254
+        ]
+      },
+      "properties": {
+        "place_id": 18,
+        "place_name": "海道",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集拾遺",
+        "address": "海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2558_15785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集拾遺』",
+        "subtitle": "海道",
+        "description": "📚 与謝野晶子『晶子詩篇全集拾遺』\n📍 海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647202,
+          35.6720135
+        ]
+      },
+      "properties": {
+        "place_id": 19,
+        "place_name": "銀座",
+        "author_name": "与謝野晶子",
+        "work_title": "晶子詩篇全集拾遺",
+        "address": "銀座, 中央区, 東京都, 104-0061, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2558_15785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『晶子詩篇全集拾遺』",
+        "subtitle": "銀座",
+        "description": "📚 与謝野晶子『晶子詩篇全集拾遺』\n📍 銀座, 中央区, 東京都, 104-0061, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 25,
+        "place_name": "大阪",
+        "author_name": "与謝野晶子",
+        "work_title": "遺書",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2559.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『遺書』",
+        "subtitle": "大阪",
+        "description": "📚 与謝野晶子『遺書』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7024447,
+          35.658999
+        ]
+      },
+      "properties": {
+        "place_id": 24,
+        "place_name": "渋谷",
+        "author_name": "与謝野晶子",
+        "work_title": "遺書",
+        "address": "渋谷, 明治通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-6101, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000885/files/2559.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "与謝野晶子『遺書』",
+        "subtitle": "渋谷",
+        "description": "📚 与謝野晶子『遺書』\n📍 渋谷, 明治通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-6101, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4758627,
+          34.3970993
+        ]
+      },
+      "properties": {
+        "place_id": 82,
+        "place_name": "広島",
+        "author_name": "国木田独歩",
+        "work_title": "運命論者",
+        "address": "広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000038/files/336_15957.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "国木田独歩『運命論者』",
+        "subtitle": "広島",
+        "description": "📚 国木田独歩『運命論者』\n📍 広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "place_id": 81,
+        "place_name": "横浜",
+        "author_name": "国木田独歩",
+        "work_title": "運命論者",
+        "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000038/files/336_15957.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "国木田独歩『運命論者』",
+        "subtitle": "横浜",
+        "description": "📚 国木田独歩『運命論者』\n📍 横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647202,
+          35.6720135
+        ]
+      },
+      "properties": {
+        "place_id": 80,
+        "place_name": "銀座",
+        "author_name": "国木田独歩",
+        "work_title": "運命論者",
+        "address": "銀座, 中央区, 東京都, 104-0061, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000038/files/336_15957.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "国木田独歩『運命論者』",
+        "subtitle": "銀座",
+        "description": "📚 国木田独歩『運命論者』\n📍 銀座, 中央区, 東京都, 104-0061, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.3192808
+        ]
+      },
+      "properties": {
+        "place_id": 83,
+        "place_name": "鎌倉",
+        "author_name": "国木田独歩",
+        "work_title": "運命論者",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000038/files/336_15957.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "国木田独歩『運命論者』",
+        "subtitle": "鎌倉",
+        "description": "📚 国木田独歩『運命論者』\n📍 鎌倉市, 神奈川県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7391291,
+          35.6286974
+        ]
+      },
+      "properties": {
+        "place_id": 79,
+        "place_name": "品川",
+        "author_name": "国木田独歩",
+        "work_title": "遺言",
+        "address": "品川, レインボーロード, 港南二丁目, 港南, 港区, 東京都, 108-8282, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000038/files/42209_34791.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "国木田独歩『遺言』",
+        "subtitle": "品川",
+        "description": "📚 国木田独歩『遺言』\n📍 品川, レインボーロード, 港南二丁目, 港南, 港区, 東京都, 108-8282, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8836728,
+          35.1715775
+        ]
+      },
+      "properties": {
+        "place_id": 59,
+        "place_name": "名古屋",
+        "author_name": "坪内逍遥",
+        "work_title": "十歳以前に読んだ本",
+        "address": "名古屋, 名駅通, 名駅二丁目, 中村区, 名古屋市, 愛知県, 450-6490, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000141/files/3609_17701.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "坪内逍遥『十歳以前に読んだ本』",
+        "subtitle": "名古屋",
+        "description": "📚 坪内逍遥『十歳以前に読んだ本』\n📍 名古屋, 名駅通, 名駅二丁目, 中村区, 名古屋市, 愛知県, 450-6490, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 58,
+        "place_name": "大阪",
+        "author_name": "坪内逍遥",
+        "work_title": "斎藤緑雨と内田不知菴",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000141/files/49438_56067.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "坪内逍遥『斎藤緑雨と内田不知菴』",
+        "subtitle": "大阪",
+        "description": "📚 坪内逍遥『斎藤緑雨と内田不知菴』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7975626,
+          35.7175966
+        ]
+      },
+      "properties": {
+        "place_id": 4,
+        "place_name": "浅草",
+        "author_name": "夏目漱石",
+        "work_title": "おはなし",
+        "address": "浅草, 台東区, 東京都, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/59017_70177.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『おはなし』",
+        "subtitle": "浅草",
+        "description": "📚 夏目漱石『おはなし』\n📍 浅草, 台東区, 東京都, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4976783,
+          36.1192436
+        ]
+      },
+      "properties": {
+        "place_id": 2,
+        "place_name": "埼玉",
+        "author_name": "夏目漱石",
+        "work_title": "永日小品",
+        "address": "埼玉, 行田市, 埼玉県, 361-0033, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/758_14936.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『永日小品』",
+        "subtitle": "埼玉",
+        "description": "📚 夏目漱石『永日小品』\n📍 埼玉, 行田市, 埼玉県, 361-0033, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 3,
+        "place_name": "日光",
+        "author_name": "夏目漱石",
+        "work_title": "永日小品",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/758_14936.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『永日小品』",
+        "subtitle": "日光",
+        "description": "📚 夏目漱石『永日小品』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7975626,
+          35.7175966
+        ]
+      },
+      "properties": {
+        "place_id": 1,
+        "place_name": "浅草",
+        "author_name": "夏目漱石",
+        "work_title": "永日小品",
+        "address": "浅草, 台東区, 東京都, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/758_14936.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『永日小品』",
+        "subtitle": "浅草",
+        "description": "📚 夏目漱石『永日小品』\n📍 浅草, 台東区, 東京都, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6995653,
+          35.6906132
+        ]
+      },
+      "properties": {
+        "place_id": 6,
+        "place_name": "新宿",
+        "author_name": "太宰治",
+        "work_title": "愛と美について",
+        "address": "新宿, Mosaic Street, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000035/files/1578_44923.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "太宰治『愛と美について』",
+        "subtitle": "新宿",
+        "description": "📚 太宰治『愛と美について』\n📍 新宿, Mosaic Street, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8299713,
+          34.6810667
+        ]
+      },
+      "properties": {
+        "place_id": 60,
+        "place_name": "京府",
+        "author_name": "尾崎紅葉",
+        "work_title": "硯友社の沿革",
+        "address": "京富, 四ノ室の辻子, 元林院町, 奈良市, 奈良県, 630-8217, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/3830_17027.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『硯友社の沿革』",
+        "subtitle": "京府",
+        "description": "📚 尾崎紅葉『硯友社の沿革』\n📍 京富, 四ノ室の辻子, 元林院町, 奈良市, 奈良県, 630-8217, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 62,
+        "place_name": "大阪",
+        "author_name": "尾崎紅葉",
+        "work_title": "硯友社の沿革",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/3830_17027.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『硯友社の沿革』",
+        "subtitle": "大阪",
+        "description": "📚 尾崎紅葉『硯友社の沿革』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "place_id": 61,
+        "place_name": "横浜",
+        "author_name": "尾崎紅葉",
+        "work_title": "硯友社の沿革",
+        "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/3830_17027.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『硯友社の沿革』",
+        "subtitle": "横浜",
+        "description": "📚 尾崎紅葉『硯友社の沿革』\n📍 横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7776069,
+          35.7118219
+        ]
+      },
+      "properties": {
+        "place_id": 69,
+        "place_name": "上野",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "上野",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8803164,
+          38.2598482
+        ]
+      },
+      "properties": {
+        "place_id": 73,
+        "place_name": "仙台",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "仙台, 南町通, 一丁目, 中央, 青葉区, 仙台市, 宮城県, 980-0021, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "仙台",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 仙台, 南町通, 一丁目, 中央, 青葉区, 仙台市, 宮城県, 980-0021, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1125333,
+          35.6137344
+        ]
+      },
+      "properties": {
+        "place_id": 71,
+        "place_name": "千葉",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "千葉, 千葉公園通り, 弁天二丁目, 中央区, 千葉市, 千葉県, 260-0045, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "千葉",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 千葉, 千葉公園通り, 弁天二丁目, 中央区, 千葉市, 千葉県, 260-0045, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4884654,
+          34.0531928
+        ]
+      },
+      "properties": {
+        "place_id": 63,
+        "place_name": "大道",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "大道, 高井大道停車場線, 防府市, 山口県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "大道",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 大道, 高井大道停車場線, 防府市, 山口県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4758627,
+          34.3970993
+        ]
+      },
+      "properties": {
+        "place_id": 74,
+        "place_name": "広島",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "広島",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2435936,
+          43.1202566
+        ]
+      },
+      "properties": {
+        "place_id": 64,
+        "place_name": "手道",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "手稲, 二十四軒手稲通, 手稲本町1条4丁目, 手稲区, 札幌市, 石狩振興局, 北海道, 006-0832, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "手道",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 手稲, 二十四軒手稲通, 手稲本町1条4丁目, 手稲区, 札幌市, 石狩振興局, 北海道, 006-0832, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 75,
+        "place_name": "日光",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "日光",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "place_id": 70,
+        "place_name": "横浜",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "横浜",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601918,
+          35.423254
+        ]
+      },
+      "properties": {
+        "place_id": 66,
+        "place_name": "海道",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "海道",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0781781,
+          35.1037872
+        ]
+      },
+      "properties": {
+        "place_id": 76,
+        "place_name": "熱海",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "熱海, 熱海停車場線, 田原本町, 熱海市, 静岡県, 413-0005, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "熱海",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 熱海, 熱海停車場線, 田原本町, 熱海市, 静岡県, 413-0005, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5644395,
+          39.5957074
+        ]
+      },
+      "properties": {
+        "place_id": 67,
+        "place_name": "知県",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "知々(ちゅちゅ), 日三市角館線, 角館町, 仙北市, 秋田県, 014-0368, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "知県",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 知々(ちゅちゅ), 日三市角館線, 角館町, 仙北市, 秋田県, 014-0368, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1782824,
+          34.6792884
+        ]
+      },
+      "properties": {
+        "place_id": 72,
+        "place_name": "神戸",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "神戸, 盲学校専用通学路, 相生町三丁目, 中央区, 神戸市, 兵庫県, 650-0025, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "神戸",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 神戸, 盲学校専用通学路, 相生町三丁目, 中央区, 神戸市, 兵庫県, 650-0025, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0564486,
+          37.2727636
+        ]
+      },
+      "properties": {
+        "place_id": 68,
+        "place_name": "神道",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "神道, 能登町, 鳳珠郡, 石川県, 927-0302, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "神道",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 神道, 能登町, 鳳珠郡, 石川県, 927-0302, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9602414,
+          31.8661117
+        ]
+      },
+      "properties": {
+        "place_id": 65,
+        "place_name": "野道",
+        "author_name": "尾崎紅葉",
+        "work_title": "金色夜叉",
+        "address": "野島, 薩摩川内市, 鹿児島県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000091/files/522_77785.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "尾崎紅葉『金色夜叉』",
+        "subtitle": "野道",
+        "description": "📚 尾崎紅葉『金色夜叉』\n📍 野島, 薩摩川内市, 鹿児島県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7391291,
+          35.6286974
+        ]
+      },
+      "properties": {
+        "place_id": 57,
+        "place_name": "品川",
+        "author_name": "島崎藤村",
+        "work_title": "ある女の生涯",
+        "address": "品川, レインボーロード, 港南二丁目, 港南, 港区, 東京都, 108-8282, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/4623_31218.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『ある女の生涯』",
+        "subtitle": "品川",
+        "description": "📚 島崎藤村『ある女の生涯』\n📍 品川, レインボーロード, 港南二丁目, 港南, 港区, 東京都, 108-8282, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6037846,
+          34.7436621
+        ]
+      },
+      "properties": {
+        "place_id": 55,
+        "place_name": "大都",
+        "author_name": "島崎藤村",
+        "work_title": "ある女の生涯",
+        "address": "大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/4623_31218.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『ある女の生涯』",
+        "subtitle": "大都",
+        "description": "📚 島崎藤村『ある女の生涯』\n📍 大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6995653,
+          35.6906132
+        ]
+      },
+      "properties": {
+        "place_id": 56,
+        "place_name": "新宿",
+        "author_name": "島崎藤村",
+        "work_title": "ある女の生涯",
+        "address": "新宿, Mosaic Street, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/4623_31218.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『ある女の生涯』",
+        "subtitle": "新宿",
+        "description": "📚 島崎藤村『ある女の生涯』\n📍 新宿, Mosaic Street, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.0564486,
+          37.2727636
+        ]
+      },
+      "properties": {
+        "place_id": 54,
+        "place_name": "神道",
+        "author_name": "島崎藤村",
+        "work_title": "ある女の生涯",
+        "address": "神道, 能登町, 鳳珠郡, 石川県, 927-0302, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/4623_31218.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『ある女の生涯』",
+        "subtitle": "神道",
+        "description": "📚 島崎藤村『ある女の生涯』\n📍 神道, 能登町, 鳳珠郡, 石川県, 927-0302, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6037846,
+          34.7436621
+        ]
+      },
+      "properties": {
+        "place_id": 52,
+        "place_name": "大都",
+        "author_name": "島崎藤村",
+        "work_title": "嵐",
+        "address": "大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/1511_20470.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『嵐』",
+        "subtitle": "大都",
+        "description": "📚 島崎藤村『嵐』\n📍 大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647202,
+          35.6720135
+        ]
+      },
+      "properties": {
+        "place_id": 53,
+        "place_name": "銀座",
+        "author_name": "島崎藤村",
+        "work_title": "嵐",
+        "address": "銀座, 中央区, 東京都, 104-0061, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/1511_20470.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『嵐』",
+        "subtitle": "銀座",
+        "description": "📚 島崎藤村『嵐』\n📍 銀座, 中央区, 東京都, 104-0061, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601918,
+          35.423254
+        ]
+      },
+      "properties": {
+        "place_id": 49,
+        "place_name": "海道",
+        "author_name": "島崎藤村",
+        "work_title": "灯火",
+        "address": "海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/50377_68771.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『灯火』",
+        "subtitle": "海道",
+        "description": "📚 島崎藤村『灯火』\n📍 海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0781781,
+          35.1037872
+        ]
+      },
+      "properties": {
+        "place_id": 51,
+        "place_name": "熱海",
+        "author_name": "島崎藤村",
+        "work_title": "灯火",
+        "address": "熱海, 熱海停車場線, 田原本町, 熱海市, 静岡県, 413-0005, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/50377_68771.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『灯火』",
+        "subtitle": "熱海",
+        "description": "📚 島崎藤村『灯火』\n📍 熱海, 熱海停車場線, 田原本町, 熱海市, 静岡県, 413-0005, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.037778,
+          35.189737
+        ]
+      },
+      "properties": {
+        "place_id": 50,
+        "place_name": "箱根",
+        "author_name": "島崎藤村",
+        "work_title": "灯火",
+        "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000158/files/50377_68771.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "島崎藤村『灯火』",
+        "subtitle": "箱根",
+        "description": "📚 島崎藤村『灯火』\n📍 箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6351092,
+          36.3425512
+        ]
+      },
+      "properties": {
+        "place_id": 8,
+        "place_name": "軽井沢",
+        "author_name": "川端康成",
+        "work_title": "川端茅舎句集",
+        "address": "軽井沢, 町道軽井沢駅南北連絡線, 軽井沢東, 軽井沢町, 北佐久郡, 長野県, 389-0104, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000369/files/55239_65212.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『川端茅舎句集』",
+        "subtitle": "軽井沢",
+        "description": "📚 川端康成『川端茅舎句集』\n📍 軽井沢, 町道軽井沢駅南北連絡線, 軽井沢東, 軽井沢町, 北佐久郡, 長野県, 389-0104, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9602414,
+          31.8661117
+        ]
+      },
+      "properties": {
+        "place_id": 7,
+        "place_name": "野道",
+        "author_name": "川端康成",
+        "work_title": "川端茅舎句集",
+        "address": "野島, 薩摩川内市, 鹿児島県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000369/files/55239_65212.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "川端康成『川端茅舎句集』",
+        "subtitle": "野道",
+        "description": "📚 川端康成『川端茅舎句集』\n📍 野島, 薩摩川内市, 鹿児島県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4884654,
+          34.0531928
+        ]
+      },
+      "properties": {
+        "place_id": 78,
+        "place_name": "大道",
+        "author_name": "幸田露伴",
+        "work_title": "一貫章義（現代訳）",
+        "address": "大道, 高井大道停車場線, 防府市, 山口県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000051/files/60584_72378.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "幸田露伴『一貫章義（現代訳）』",
+        "subtitle": "大道",
+        "description": "📚 幸田露伴『一貫章義（現代訳）』\n📍 大道, 高井大道停車場線, 防府市, 山口県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8189414,
+          34.6808117
+        ]
+      },
+      "properties": {
+        "place_id": 77,
+        "place_name": "奈良",
+        "author_name": "幸田露伴",
+        "work_title": "淡島寒月氏",
+        "address": "奈良, 三条通り, 油阪地方町, 奈良市, 奈良県, 630-8122, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000051/files/47086_27953.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "幸田露伴『淡島寒月氏』",
+        "subtitle": "奈良",
+        "description": "📚 幸田露伴『淡島寒月氏』\n📍 奈良, 三条通り, 油阪地方町, 奈良市, 奈良県, 630-8122, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7776069,
+          35.7118219
+        ]
+      },
+      "properties": {
+        "place_id": 89,
+        "place_name": "上野",
+        "author_name": "徳冨蘆花",
+        "work_title": "熊の足跡",
+        "address": "上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/18326_19239.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『熊の足跡』",
+        "subtitle": "上野",
+        "description": "📚 徳冨蘆花『熊の足跡』\n📍 上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758766,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 87,
+        "place_name": "京都",
+        "author_name": "徳冨蘆花",
+        "work_title": "熊の足跡",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/18326_19239.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『熊の足跡』",
+        "subtitle": "京都",
+        "description": "📚 徳冨蘆花『熊の足跡』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4884654,
+          34.0531928
+        ]
+      },
+      "properties": {
+        "place_id": 86,
+        "place_name": "大道",
+        "author_name": "徳冨蘆花",
+        "work_title": "熊の足跡",
+        "address": "大道, 高井大道停車場線, 防府市, 山口県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/18326_19239.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『熊の足跡』",
+        "subtitle": "大道",
+        "description": "📚 徳冨蘆花『熊の足跡』\n📍 大道, 高井大道停車場線, 防府市, 山口県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3509218,
+          43.0686365
+        ]
+      },
+      "properties": {
+        "place_id": 90,
+        "place_name": "札幌",
+        "author_name": "徳冨蘆花",
+        "work_title": "熊の足跡",
+        "address": "札幌, 札幌地下歩行空間, 北1西4, 中央区, 札幌市, 石狩振興局, 北海道, 060-8619, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/18326_19239.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『熊の足跡』",
+        "subtitle": "札幌",
+        "description": "📚 徳冨蘆花『熊の足跡』\n📍 札幌, 札幌地下歩行空間, 北1西4, 中央区, 札幌市, 石狩振興局, 北海道, 060-8619, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.601918,
+          35.423254
+        ]
+      },
+      "properties": {
+        "place_id": 85,
+        "place_name": "海道",
+        "author_name": "徳冨蘆花",
+        "work_title": "熊の足跡",
+        "address": "海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/18326_19239.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『熊の足跡』",
+        "subtitle": "海道",
+        "description": "📚 徳冨蘆花『熊の足跡』\n📍 海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8864748,
+          35.1785215
+        ]
+      },
+      "properties": {
+        "place_id": 88,
+        "place_name": "都府",
+        "author_name": "徳冨蘆花",
+        "work_title": "熊の足跡",
+        "address": "豆福, 外堀通り, 新道二丁目, 西区, 名古屋市, 愛知県, 451-0042, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/18326_19239.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『熊の足跡』",
+        "subtitle": "都府",
+        "description": "📚 徳冨蘆花『熊の足跡』\n📍 豆福, 外堀通り, 新道二丁目, 西区, 名古屋市, 愛知県, 451-0042, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.8391774,
+          34.0331379
+        ]
+      },
+      "properties": {
+        "place_id": 84,
+        "place_name": "山県",
+        "author_name": "徳冨蘆花",
+        "work_title": "燕尾服着初めの記",
+        "address": "山縣, 旧山陽道, 久米中央二丁目, 田中, 周南市, 山口県, 745-0809, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000280/files/48204_35097.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "徳冨蘆花『燕尾服着初めの記』",
+        "subtitle": "山県",
+        "description": "📚 徳冨蘆花『燕尾服着初めの記』\n📍 山縣, 旧山陽道, 久米中央二丁目, 田中, 周南市, 山口県, 745-0809, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 48,
+        "place_name": "大阪",
+        "author_name": "志賀直哉",
+        "work_title": "琉球に学ぶべきもの",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000587/files/59856_77129.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "志賀直哉『琉球に学ぶべきもの』",
+        "subtitle": "大阪",
+        "description": "📚 志賀直哉『琉球に学ぶべきもの』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.040769,
+          37.746998
+        ]
+      },
+      "properties": {
+        "place_id": 44,
+        "place_name": "島県",
+        "author_name": "志賀直哉",
+        "work_title": "琉球に学ぶべきもの",
+        "address": "田尾, 南区, 新潟市, 新潟県, 950-1214, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000587/files/59856_77129.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "志賀直哉『琉球に学ぶべきもの』",
+        "subtitle": "島県",
+        "description": "📚 志賀直哉『琉球に学ぶべきもの』\n📍 田尾, 南区, 新潟市, 新潟県, 950-1214, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8354635,
+          33.2848731
+        ]
+      },
+      "properties": {
+        "place_id": 46,
+        "place_name": "梨県",
+        "author_name": "志賀直哉",
+        "work_title": "琉球に学ぶべきもの",
+        "address": "里, 国道204号, 東山代町里, 伊万里市, 佐賀県, 849-4282, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000587/files/59856_77129.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "志賀直哉『琉球に学ぶべきもの』",
+        "subtitle": "梨県",
+        "description": "📚 志賀直哉『琉球に学ぶべきもの』\n📍 里, 国道204号, 東山代町里, 伊万里市, 佐賀県, 849-4282, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5472857,
+          39.3851637
+        ]
+      },
+      "properties": {
+        "place_id": 45,
+        "place_name": "森県",
+        "author_name": "志賀直哉",
+        "work_title": "琉球に学ぶべきもの",
+        "address": "森先, 美郷町, 仙北郡, 秋田県, 013-0814, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000587/files/59856_77129.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "志賀直哉『琉球に学ぶべきもの』",
+        "subtitle": "森県",
+        "description": "📚 志賀直哉『琉球に学ぶべきもの』\n📍 森先, 美郷町, 仙北郡, 秋田県, 013-0814, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5644395,
+          39.5957074
+        ]
+      },
+      "properties": {
+        "place_id": 47,
+        "place_name": "知県",
+        "author_name": "志賀直哉",
+        "work_title": "琉球に学ぶべきもの",
+        "address": "知々(ちゅちゅ), 日三市角館線, 角館町, 仙北市, 秋田県, 014-0368, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000587/files/59856_77129.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "志賀直哉『琉球に学ぶべきもの』",
+        "subtitle": "知県",
+        "description": "📚 志賀直哉『琉球に学ぶべきもの』\n📍 知々(ちゅちゅ), 日三市角館線, 角館町, 仙北市, 秋田県, 014-0368, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7776069,
+          35.7118219
+        ]
+      },
+      "properties": {
+        "place_id": 9,
+        "place_name": "上野",
+        "author_name": "樋口一葉",
+        "work_title": "暁月夜",
+        "address": "上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000064/files/55659_51158.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『暁月夜』",
+        "subtitle": "上野",
+        "description": "📚 樋口一葉『暁月夜』\n📍 上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.3192808
+        ]
+      },
+      "properties": {
+        "place_id": 10,
+        "place_name": "鎌倉",
+        "author_name": "樋口一葉",
+        "work_title": "暁月夜",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000064/files/55659_51158.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "樋口一葉『暁月夜』",
+        "subtitle": "鎌倉",
+        "description": "📚 樋口一葉『暁月夜』\n📍 鎌倉市, 神奈川県, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647202,
+          35.6720135
+        ]
+      },
+      "properties": {
+        "place_id": 5,
+        "place_name": "銀座",
+        "author_name": "芥川龍之介",
+        "work_title": "「ぴ・い・ぷ・る」",
+        "address": "銀座, 中央区, 東京都, 104-0061, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001990/files/59393_75476.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "芥川龍之介『「ぴ・い・ぷ・る」』",
+        "subtitle": "銀座",
+        "description": "📚 芥川龍之介『「ぴ・い・ぷ・る」』\n📍 銀座, 中央区, 東京都, 104-0061, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758766,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 26,
+        "place_name": "京都",
+        "author_name": "谷崎潤一郎",
+        "work_title": "蘆刈",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56875_58210.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『蘆刈』",
+        "subtitle": "京都",
+        "description": "📚 谷崎潤一郎『蘆刈』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6243304,
+          35.9063869
+        ]
+      },
+      "properties": {
+        "place_id": 29,
+        "place_name": "大宮",
+        "author_name": "谷崎潤一郎",
+        "work_title": "蘆刈",
+        "address": "大宮, 大宮銀座通り, 宮町一丁目, 大宮区, さいたま市, 埼玉県, 330-0802, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56875_58210.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『蘆刈』",
+        "subtitle": "大宮",
+        "description": "📚 谷崎潤一郎『蘆刈』\n📍 大宮, 大宮銀座通り, 宮町一丁目, 大宮区, さいたま市, 埼玉県, 330-0802, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6037846,
+          34.7436621
+        ]
+      },
+      "properties": {
+        "place_id": 28,
+        "place_name": "大都",
+        "author_name": "谷崎潤一郎",
+        "work_title": "蘆刈",
+        "address": "大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56875_58210.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『蘆刈』",
+        "subtitle": "大都",
+        "description": "📚 谷崎潤一郎『蘆刈』\n📍 大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 30,
+        "place_name": "大阪",
+        "author_name": "谷崎潤一郎",
+        "work_title": "蘆刈",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56875_58210.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『蘆刈』",
+        "subtitle": "大阪",
+        "description": "📚 谷崎潤一郎『蘆刈』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2072752,
+          36.6035097
+        ]
+      },
+      "properties": {
+        "place_id": 27,
+        "place_name": "本道",
+        "author_name": "谷崎潤一郎",
+        "work_title": "蘆刈",
+        "address": "本道, 川合川中島線, 真島町真島, 長野市, 長野県, 381-2298, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56875_58210.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『蘆刈』",
+        "subtitle": "本道",
+        "description": "📚 谷崎潤一郎『蘆刈』\n📍 本道, 川合川中島線, 真島町真島, 長野市, 長野県, 381-2298, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758766,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 37,
+        "place_name": "京都",
+        "author_name": "谷崎潤一郎",
+        "work_title": "鍵",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56846_58899.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『鍵』",
+        "subtitle": "京都",
+        "description": "📚 谷崎潤一郎『鍵』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6243304,
+          35.9063869
+        ]
+      },
+      "properties": {
+        "place_id": 38,
+        "place_name": "大宮",
+        "author_name": "谷崎潤一郎",
+        "work_title": "鍵",
+        "address": "大宮, 大宮銀座通り, 宮町一丁目, 大宮区, さいたま市, 埼玉県, 330-0802, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56846_58899.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『鍵』",
+        "subtitle": "大宮",
+        "description": "📚 谷崎潤一郎『鍵』\n📍 大宮, 大宮銀座通り, 宮町一丁目, 大宮区, さいたま市, 埼玉県, 330-0802, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 39,
+        "place_name": "大阪",
+        "author_name": "谷崎潤一郎",
+        "work_title": "鍵",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56846_58899.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『鍵』",
+        "subtitle": "大阪",
+        "description": "📚 谷崎潤一郎『鍵』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 40,
+        "place_name": "日光",
+        "author_name": "谷崎潤一郎",
+        "work_title": "鍵",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56846_58899.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『鍵』",
+        "subtitle": "日光",
+        "description": "📚 谷崎潤一郎『鍵』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758766,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 31,
+        "place_name": "京都",
+        "author_name": "谷崎潤一郎",
+        "work_title": "陰翳礼讃",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56642_59575.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『陰翳礼讃』",
+        "subtitle": "京都",
+        "description": "📚 谷崎潤一郎『陰翳礼讃』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6037846,
+          34.7436621
+        ]
+      },
+      "properties": {
+        "place_id": 32,
+        "place_name": "大都",
+        "author_name": "谷崎潤一郎",
+        "work_title": "陰翳礼讃",
+        "address": "大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56642_59575.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『陰翳礼讃』",
+        "subtitle": "大都",
+        "description": "📚 谷崎潤一郎『陰翳礼讃』\n📍 大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      },
+      "properties": {
+        "place_id": 34,
+        "place_name": "大阪",
+        "author_name": "谷崎潤一郎",
+        "work_title": "陰翳礼讃",
+        "address": "大阪市, 大阪府, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56642_59575.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『陰翳礼讃』",
+        "subtitle": "大阪",
+        "description": "📚 谷崎潤一郎『陰翳礼讃』\n📍 大阪市, 大阪府, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8189414,
+          34.6808117
+        ]
+      },
+      "properties": {
+        "place_id": 35,
+        "place_name": "奈良",
+        "author_name": "谷崎潤一郎",
+        "work_title": "陰翳礼讃",
+        "address": "奈良, 三条通り, 油阪地方町, 奈良市, 奈良県, 630-8122, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56642_59575.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『陰翳礼讃』",
+        "subtitle": "奈良",
+        "description": "📚 谷崎潤一郎『陰翳礼讃』\n📍 奈良, 三条通り, 油阪地方町, 奈良市, 奈良県, 630-8122, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6219414,
+          36.7471805
+        ]
+      },
+      "properties": {
+        "place_id": 36,
+        "place_name": "日光",
+        "author_name": "谷崎潤一郎",
+        "work_title": "陰翳礼讃",
+        "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56642_59575.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『陰翳礼讃』",
+        "subtitle": "日光",
+        "description": "📚 谷崎潤一郎『陰翳礼讃』\n📍 日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本\n🎯 信頼度: 0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231953,
+          35.4662066
+        ]
+      },
+      "properties": {
+        "place_id": 33,
+        "place_name": "横浜",
+        "author_name": "谷崎潤一郎",
+        "work_title": "陰翳礼讃",
+        "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+        "maps_url": null,
+        "before_text": "",
+        "sentence": "",
+        "after_text": "",
+        "context": "",
+        "extraction_method": "regex_pattern",
+        "confidence": 0.6,
+        "aozora_url": "https://www.aozora.gr.jp/cards/001383/files/56642_59575.html",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "谷崎潤一郎『陰翳礼讃』",
+        "subtitle": "横浜",
+        "description": "📚 谷崎潤一郎『陰翳礼讃』\n📍 横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本\n🎯 信頼度: 0.6"
+      }
+    }
+  ]
+}

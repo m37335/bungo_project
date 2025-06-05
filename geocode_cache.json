@@ -1,0 +1,353 @@
+{
+  "浅草_日本": {
+    "place_name": "浅草",
+    "latitude": 35.7175966,
+    "longitude": 139.7975626,
+    "address": "浅草, 台東区, 東京都, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "埼玉_日本": {
+    "place_name": "埼玉",
+    "latitude": 36.1192436,
+    "longitude": 139.4976783,
+    "address": "埼玉, 行田市, 埼玉県, 361-0033, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "日光_日本": {
+    "place_name": "日光",
+    "latitude": 36.7471805,
+    "longitude": 139.6219414,
+    "address": "日光, 日光停車場線, 相生町, 日光市, 栃木県, 321-1413, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "銀座_日本": {
+    "place_name": "銀座",
+    "latitude": 35.6720135,
+    "longitude": 139.7647202,
+    "address": "銀座, 中央区, 東京都, 104-0061, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "新宿_日本": {
+    "place_name": "新宿",
+    "latitude": 35.6906132,
+    "longitude": 139.6995653,
+    "address": "新宿, Mosaic Street, 西新宿一丁目, 西新宿, 新宿区, 東京都, 160-8484, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "野道_日本": {
+    "place_name": "野道",
+    "latitude": 31.8661117,
+    "longitude": 129.9602414,
+    "address": "野島, 薩摩川内市, 鹿児島県, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "軽井沢_日本": {
+    "place_name": "軽井沢",
+    "latitude": 36.3425512,
+    "longitude": 138.6351092,
+    "address": "軽井沢, 町道軽井沢駅南北連絡線, 軽井沢東, 軽井沢町, 北佐久郡, 長野県, 389-0104, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "上野_日本": {
+    "place_name": "上野",
+    "latitude": 35.7118219,
+    "longitude": 139.7776069,
+    "address": "上野, 昭和通り, 東上野三丁目, 東上野, 台東区, 東京都, 110-0015, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "鎌倉_日本": {
+    "place_name": "鎌倉",
+    "latitude": 35.3192808,
+    "longitude": 139.5469627,
+    "address": "鎌倉市, 神奈川県, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "木道_日本": {
+    "place_name": "木道",
+    "latitude": 37.9400174,
+    "longitude": 139.3606113,
+    "address": "木道, 金谷, 新発田市, 新潟県, 957-0052, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "本道_日本": {
+    "place_name": "本道",
+    "latitude": 36.6035097,
+    "longitude": 138.2072752,
+    "address": "本道, 川合川中島線, 真島町真島, 長野市, 長野県, 381-2298, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "渋谷_日本": {
+    "place_name": "渋谷",
+    "latitude": 35.658999,
+    "longitude": 139.7024447,
+    "address": "渋谷, 明治通り, 渋谷二丁目, 渋谷, 渋谷区, 東京都, 150-6101, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "横浜_日本": {
+    "place_name": "横浜",
+    "latitude": 35.4662066,
+    "longitude": 139.6231953,
+    "address": "横浜, 国道1号, 高島二丁目, 西区, 横浜市, 神奈川県, 231-0017, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "神戸_日本": {
+    "place_name": "神戸",
+    "latitude": 34.6792884,
+    "longitude": 135.1782824,
+    "address": "神戸, 盲学校専用通学路, 相生町三丁目, 中央区, 神戸市, 兵庫県, 650-0025, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "海道_日本": {
+    "place_name": "海道",
+    "latitude": 35.423254,
+    "longitude": 139.601918,
+    "address": "海道, 鎌倉街道, 通町四丁目, 南区, 横浜市, 神奈川県, 232-0056, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "千葉_日本": {
+    "place_name": "千葉",
+    "latitude": 35.6137344,
+    "longitude": 140.1125333,
+    "address": "千葉, 千葉公園通り, 弁天二丁目, 中央区, 千葉市, 千葉県, 260-0045, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "大阪_日本": {
+    "place_name": "大阪",
+    "latitude": 34.6937569,
+    "longitude": 135.5014539,
+    "address": "大阪市, 大阪府, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "京都_日本": {
+    "place_name": "京都",
+    "latitude": 34.9853497,
+    "longitude": 135.758766,
+    "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "大都_日本": {
+    "place_name": "大都",
+    "latitude": 34.7436621,
+    "longitude": 135.6037846,
+    "address": "大都, 大和田 駅前 中央 商店街, 宮野町, 門真市, 大阪府, 571-0062, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "大宮_日本": {
+    "place_name": "大宮",
+    "latitude": 35.9063869,
+    "longitude": 139.6243304,
+    "address": "大宮, 大宮銀座通り, 宮町一丁目, 大宮区, さいたま市, 埼玉県, 330-0802, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "奈良_日本": {
+    "place_name": "奈良",
+    "latitude": 34.6808117,
+    "longitude": 135.8189414,
+    "address": "奈良, 三条通り, 油阪地方町, 奈良市, 奈良県, 630-8122, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "分道_日本": {
+    "place_name": "分道",
+    "latitude": null,
+    "longitude": null,
+    "address": null,
+    "geocoded": false,
+    "method": "failed",
+    "confidence": 0.0
+  },
+  "島県_日本": {
+    "place_name": "島県",
+    "latitude": 37.746998,
+    "longitude": 139.040769,
+    "address": "田尾, 南区, 新潟市, 新潟県, 950-1214, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "森県_日本": {
+    "place_name": "森県",
+    "latitude": 39.3851637,
+    "longitude": 140.5472857,
+    "address": "森先, 美郷町, 仙北郡, 秋田県, 013-0814, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "梨県_日本": {
+    "place_name": "梨県",
+    "latitude": 33.2848731,
+    "longitude": 129.8354635,
+    "address": "里, 国道204号, 東山代町里, 伊万里市, 佐賀県, 849-4282, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "知県_日本": {
+    "place_name": "知県",
+    "latitude": 39.5957074,
+    "longitude": 140.5644395,
+    "address": "知々(ちゅちゅ), 日三市角館線, 角館町, 仙北市, 秋田県, 014-0368, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "箱根_日本": {
+    "place_name": "箱根",
+    "latitude": 35.189737,
+    "longitude": 139.037778,
+    "address": "箱根, 箱根町, 足柄下郡, 神奈川県, 250-0521, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "熱海_日本": {
+    "place_name": "熱海",
+    "latitude": 35.1037872,
+    "longitude": 139.0781781,
+    "address": "熱海, 熱海停車場線, 田原本町, 熱海市, 静岡県, 413-0005, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "神道_日本": {
+    "place_name": "神道",
+    "latitude": 37.2727636,
+    "longitude": 137.0564486,
+    "address": "神道, 能登町, 鳳珠郡, 石川県, 927-0302, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "品川_日本": {
+    "place_name": "品川",
+    "latitude": 35.6286974,
+    "longitude": 139.7391291,
+    "address": "品川, レインボーロード, 港南二丁目, 港南, 港区, 東京都, 108-8282, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "名古屋_日本": {
+    "place_name": "名古屋",
+    "latitude": 35.1715775,
+    "longitude": 136.8836728,
+    "address": "名古屋, 名駅通, 名駅二丁目, 中村区, 名古屋市, 愛知県, 450-6490, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "京府_日本": {
+    "place_name": "京府",
+    "latitude": 34.6810667,
+    "longitude": 135.8299713,
+    "address": "京富, 四ノ室の辻子, 元林院町, 奈良市, 奈良県, 630-8217, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "大道_日本": {
+    "place_name": "大道",
+    "latitude": 34.0531928,
+    "longitude": 131.4884654,
+    "address": "大道, 高井大道停車場線, 防府市, 山口県, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "手道_日本": {
+    "place_name": "手道",
+    "latitude": 43.1202566,
+    "longitude": 141.2435936,
+    "address": "手稲, 二十四軒手稲通, 手稲本町1条4丁目, 手稲区, 札幌市, 石狩振興局, 北海道, 006-0832, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "仙台_日本": {
+    "place_name": "仙台",
+    "latitude": 38.2598482,
+    "longitude": 140.8803164,
+    "address": "仙台, 南町通, 一丁目, 中央, 青葉区, 仙台市, 宮城県, 980-0021, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "広島_日本": {
+    "place_name": "広島",
+    "latitude": 34.3970993,
+    "longitude": 132.4758627,
+    "address": "広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "山県_日本": {
+    "place_name": "山県",
+    "latitude": 34.0331379,
+    "longitude": 131.8391774,
+    "address": "山縣, 旧山陽道, 久米中央二丁目, 田中, 周南市, 山口県, 745-0809, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "都府_日本": {
+    "place_name": "都府",
+    "latitude": 35.1785215,
+    "longitude": 136.8864748,
+    "address": "豆福, 外堀通り, 新道二丁目, 西区, 名古屋市, 愛知県, 451-0042, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  },
+  "札幌_日本": {
+    "place_name": "札幌",
+    "latitude": 43.0686365,
+    "longitude": 141.3509218,
+    "address": "札幌, 札幌地下歩行空間, 北1西4, 中央区, 札幌市, 石狩振興局, 北海道, 060-8619, 日本",
+    "geocoded": true,
+    "method": "nominatim",
+    "confidence": 0.7
+  }
+}

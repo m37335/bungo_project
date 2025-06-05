@@ -1,0 +1,43 @@
+{
+  "authors_count": 20,
+  "works_count": 76,
+  "places_count": 90,
+  "geocoded_count": 89,
+  "geocoded_rate": 98.88888888888889,
+  "export_stats": {
+    "exportable_places": 89,
+    "top_authors": {
+      "尾崎紅葉": 17,
+      "与謝野晶子": 15,
+      "谷崎潤一郎": 15,
+      "島崎藤村": 9,
+      "徳冨蘆花": 7,
+      "志賀直哉": 5,
+      "国木田独歩": 5,
+      "夏目漱石": 4,
+      "幸田露伴": 2,
+      "三島由紀夫": 2
+    },
+    "top_places": {
+      "日光": 8,
+      "大阪": 7,
+      "横浜": 6,
+      "上野": 4,
+      "海道": 4,
+      "銀座": 4,
+      "京都": 4,
+      "大都": 4,
+      "大道": 3,
+      "浅草": 3
+    },
+    "extraction_methods": {
+      "regex_pattern": 89
+    },
+    "confidence_distribution": {
+      "high (>0.8)": 0,
+      "medium (0.5-0.8)": 89,
+      "low (<0.5)": 0
+    }
+  },
+  "generated_at": "2025-06-06T01:18:26.083404"
+}
