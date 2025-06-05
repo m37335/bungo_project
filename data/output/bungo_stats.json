@@ -1,40 +1,39 @@
 {
-  "authors_count": 8,
-  "works_count": 24,
-  "places_count": 92,
-  "geocoded_count": 92,
+  "authors_count": 10,
+  "works_count": 37,
+  "places_count": 25,
+  "geocoded_count": 25,
   "geocoded_rate": 100.0,
   "export_stats": {
-    "exportable_places": 92,
+    "exportable_places": 25,
     "top_authors": {
-      "樋口一葉": 12,
-      "川端康成": 12,
-      "石川啄木": 12,
-      "森鴎外": 12,
-      "宮沢賢治": 12,
-      "太宰治": 12,
-      "芥川龍之介": 11,
-      "夏目漱石": 9
+      "与謝野晶子": 15,
+      "夏目漱石": 4,
+      "川端康成": 2,
+      "樋口一葉": 2,
+      "太宰治": 1,
+      "芥川龍之介": 1
     },
     "top_places": {
-      "京都": 23,
-      "東京": 22,
-      "鎌倉市": 21,
-      "箱根": 21,
-      "羅生門": 1,
-      "松山市": 1,
-      "本郷": 1,
-      "平安京": 1,
-      "道後温泉": 1
+      "日光": 3,
+      "浅草": 3,
+      "上野": 2,
+      "銀座": 2,
+      "渋谷": 2,
+      "横浜": 2,
+      "野道": 1,
+      "大阪": 1,
+      "埼玉": 1,
+      "千葉": 1
     },
     "extraction_methods": {
-      "legacy_llm": 92
+      "regex_pattern": 25
     },
     "confidence_distribution": {
       "high (>0.8)": 0,
-      "medium (0.5-0.8)": 92,
+      "medium (0.5-0.8)": 25,
       "low (<0.5)": 0
     }
   },
-  "generated_at": "2025-06-05T04:21:03.263358"
+  "generated_at": "2025-06-06T00:31:07.671366"
 }

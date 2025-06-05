@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generator": "bungo_places_exporter",
+    "generated_at": "2025-06-06T00:29:36.264594",
+    "total_features": 2,
+    "authors": 1,
+    "works": 1,
+    "places": 2
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5023,
+          34.6937
+        ]
+      },
+      "properties": {
+        "place_id": 2,
+        "place_name": "大阪府",
+        "author_name": "テスト作家",
+        "work_title": "テスト作品",
+        "address": "大阪府, 日本",
+        "maps_url": null,
+        "before_text": "前文",
+        "sentence": "大阪府の描写",
+        "after_text": "後文",
+        "context": "前文【大阪府の描写】後文",
+        "extraction_method": "test",
+        "confidence": 0.8,
+        "aozora_url": null,
+        "work_wikipedia_url": "https://example.com",
+        "author_wikipedia_url": "https://example.com",
+        "title": "テスト作家『テスト作品』",
+        "subtitle": "大阪府",
+        "description": "📚 テスト作家『テスト作品』\n📍 大阪府, 日本\n💭 前文【大阪府の描写】後文\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "place_id": 1,
+        "place_name": "東京都",
+        "author_name": "テスト作家",
+        "work_title": "テスト作品",
+        "address": "東京都, 日本",
+        "maps_url": null,
+        "before_text": "前文",
+        "sentence": "本文に東京都が登場",
+        "after_text": "後文",
+        "context": "前文【本文に東京都が登場】後文",
+        "extraction_method": "test",
+        "confidence": 0.9,
+        "aozora_url": null,
+        "work_wikipedia_url": "https://example.com",
+        "author_wikipedia_url": "https://example.com",
+        "title": "テスト作家『テスト作品』",
+        "subtitle": "東京都",
+        "description": "📚 テスト作家『テスト作品』\n📍 東京都, 日本\n💭 前文【本文に東京都が登場】後文\n🎯 信頼度: 0.9"
+      }
+    }
+  ]
+}

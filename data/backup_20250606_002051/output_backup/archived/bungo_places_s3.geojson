@@ -1,0 +1,913 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generator": "bungo_places_exporter",
+    "generated_at": "2025-06-05T05:02:19.029116",
+    "total_features": 30,
+    "authors": 1,
+    "works": 1,
+    "places": 30
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9218559,
+          34.662405
+        ]
+      },
+      "properties": {
+        "place_id": 29,
+        "place_name": "さき",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "さき, ハレまち通り, 幸町, 北区, 岡山市, 岡山県, 700-0903, 日本",
+        "maps_url": null,
+        "before_text": "わざ、鏡が池まで来はせぬ。袂から煙草を出して、寸燐をシュッと擦る。手応はあったが火は見えない。敷島の",
+        "sentence": "さき",
+        "after_text": "に付けて吸ってみると、鼻から煙が出た。なるほど、吸ったんだなとようやく気がついた。寸燐は短かい草のな",
+        "context": "わざ、鏡が池まで来はせぬ。袂から煙草を出して、寸燐をシュッと擦る。手応はあったが火は見えない。敷島の【さき】に付けて吸ってみると、鼻から煙が出た。なるほど、吸ったんだなとようやく気がついた。寸燐は短かい草のな",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "さき",
+        "description": "📚 夏目漱石『草枕』\n📍 さき, ハレまち通り, 幸町, 北区, 岡山市, 岡山県, 700-0903, 日本\n💭 わざ、鏡が池まで来はせぬ。袂から煙草を出して、寸燐をシュッと擦る。手応はあったが火は見えない。敷島の【さき】に付けて吸ってみると、鼻から煙が出た。なるほど、吸ったんだなとようやく気がついた。寸燐...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9783736,
+          33.7262342
+        ]
+      },
+      "properties": {
+        "place_id": 1,
+        "place_name": "だんだら",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "だんだら, 直方行橋線, 門樋町, 行橋市, 福岡県, 日本",
+        "maps_url": null,
+        "before_text": "を伏せたような峰が聳えている。杉か檜か分からないが根元から頂きまでことごとく蒼黒い中に、山桜が薄赤く",
+        "sentence": "だんだら",
+        "after_text": "に棚引いて、続ぎ目が確と見えぬくらい靄が濃い。少し手前に禿山が一つ、群をぬきんでて眉に逼る。禿げた側",
+        "context": "を伏せたような峰が聳えている。杉か檜か分からないが根元から頂きまでことごとく蒼黒い中に、山桜が薄赤く【だんだら】に棚引いて、続ぎ目が確と見えぬくらい靄が濃い。少し手前に禿山が一つ、群をぬきんでて眉に逼る。禿げた側",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "だんだら",
+        "description": "📚 夏目漱石『草枕』\n📍 だんだら, 直方行橋線, 門樋町, 行橋市, 福岡県, 日本\n💭 を伏せたような峰が聳えている。杉か檜か分からないが根元から頂きまでことごとく蒼黒い中に、山桜が薄赤く【だんだら】に棚引いて、続ぎ目が確と見えぬくらい靄が濃い。少し手前に禿山が一つ、群をぬきんでて...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.510434,
+          33.2471416
+        ]
+      },
+      "properties": {
+        "place_id": 2,
+        "place_name": "一条",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "一条, 大字一条, 筑後市, 福岡県, 833-0054, 日本",
+        "maps_url": null,
+        "before_text": "て、これは自分の句でないと気がついた。 「また誰ぞ来ました」と婆さんが半ば独り言のように云う。 ただ",
+        "sentence": "一条",
+        "after_text": "の春の路だから、行くも帰るも皆近づきと見える。最前逢うた五六匹のじゃらんじゃらんもことごとくこの婆さ",
+        "context": "て、これは自分の句でないと気がついた。 「また誰ぞ来ました」と婆さんが半ば独り言のように云う。 ただ【一条】の春の路だから、行くも帰るも皆近づきと見える。最前逢うた五六匹のじゃらんじゃらんもことごとくこの婆さ",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "一条",
+        "description": "📚 夏目漱石『草枕』\n📍 一条, 大字一条, 筑後市, 福岡県, 833-0054, 日本\n💭 て、これは自分の句でないと気がついた。 「また誰ぞ来ました」と婆さんが半ば独り言のように云う。 ただ【一条】の春の路だから、行くも帰るも皆近づきと見える。最前逢うた五六匹のじゃらんじゃらんもこと...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.758766,
+          34.9853497
+        ]
+      },
+      "properties": {
+        "place_id": 4,
+        "place_name": "京都",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本",
+        "maps_url": null,
+        "before_text": "方がいいのです」 「それじゃ幅が利きます」 「しかし東京にいた事がありましょう」 「ええ、いました、",
+        "sentence": "京都",
+        "after_text": "にもいました。渡りものですから、方々にいました」 「ここと都と、どっちがいいですか」 「同じ事ですわ",
+        "context": "方がいいのです」 「それじゃ幅が利きます」 「しかし東京にいた事がありましょう」 「ええ、いました、【京都】にもいました。渡りものですから、方々にいました」 「ここと都と、どっちがいいですか」 「同じ事ですわ",
+        "extraction_method": "ginza_ner_Province",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "京都",
+        "description": "📚 夏目漱石『草枕』\n📍 京都, 八条通, 西九条北ノ内町, 南区, 京都市, 京都府, 601-8412, 日本\n💭 方がいいのです」 「それじゃ幅が利きます」 「しかし東京にいた事がありましょう」 「ええ、いました、【京都】にもいました。渡りものですから、方々にいました」 「ここと都と、どっちがいいですか」 ...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1859359,
+          36.6513423
+        ]
+      },
+      "properties": {
+        "place_id": 22,
+        "place_name": "同所",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "囲, 寿町通り, 南長野, 西後町, 長野市, 長野県, 380-8612, 日本",
+        "maps_url": null,
+        "before_text": "えて三が生まるるがために嬉しいのではない。初から窈然として【同所】に把住する趣きで嬉しいのである。す",
+        "sentence": "同所",
+        "after_text": "に把住する以上は、よしこれを普通の言語に翻訳したところで、必ずしも時間的に材料を按排する必要はあるま",
+        "context": "えて三が生まるるがために嬉しいのではない。初から窈然として【同所】に把住する趣きで嬉しいのである。す【同所】に把住する以上は、よしこれを普通の言語に翻訳したところで、必ずしも時間的に材料を按排する必要はあるま",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "同所",
+        "description": "📚 夏目漱石『草枕』\n📍 囲, 寿町通り, 南長野, 西後町, 長野市, 長野県, 380-8612, 日本\n💭 えて三が生まるるがために嬉しいのではない。初から窈然として【同所】に把住する趣きで嬉しいのである。す【同所】に把住する以上は、よしこれを普通の言語に翻訳したところで、必ずしも時間的に材料を按排す...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.1976678,
+          34.3828144
+        ]
+      },
+      "properties": {
+        "place_id": 8,
+        "place_name": "向島",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "向島, 尾道市, 広島県, 日本",
+        "maps_url": null,
+        "before_text": "柳の枝へ上って、河の中を流れながら、うつくしい声で歌をうたう。救ってやろうと思って、長い竿を持って、",
+        "sentence": "向島",
+        "after_text": "を追懸けて行く。女は苦しい様子もなく、笑いながら、うたいながら、行末も知らず流れを下る。余は竿をかつ",
+        "context": "柳の枝へ上って、河の中を流れながら、うつくしい声で歌をうたう。救ってやろうと思って、長い竿を持って、【向島】を追懸けて行く。女は苦しい様子もなく、笑いながら、うたいながら、行末も知らず流れを下る。余は竿をかつ",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "向島",
+        "description": "📚 夏目漱石『草枕』\n📍 向島, 尾道市, 広島県, 日本\n💭 柳の枝へ上って、河の中を流れながら、うつくしい声で歌をうたう。救ってやろうと思って、長い竿を持って、【向島】を追懸けて行く。女は苦しい様子もなく、笑いながら、うたいながら、行末も知らず流れを下る...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7286558,
+          35.6861404
+        ]
+      },
+      "properties": {
+        "place_id": 17,
+        "place_name": "四谷",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "四谷, 新宿区, 東京都, 160-8484, 日本",
+        "maps_url": null,
+        "before_text": "―何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、小石川？ でなければ牛込か",
+        "sentence": "四谷",
+        "after_text": "でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸っ子だからね」 「道理で",
+        "context": "―何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、小石川？ でなければ牛込か【四谷】でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸っ子だからね」 「道理で",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "四谷",
+        "description": "📚 夏目漱石『草枕』\n📍 四谷, 新宿区, 東京都, 160-8484, 日本\n💭 ―何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、小石川？ でなければ牛込か【四谷】でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸っ子だから...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7460916,
+          35.7131491
+        ]
+      },
+      "properties": {
+        "place_id": 15,
+        "place_name": "小石川",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "小石川, 文京区, 東京都, 日本",
+        "maps_url": null,
+        "before_text": "東京は馬鹿に広いからね。――何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、",
+        "sentence": "小石川",
+        "after_text": "？ でなければ牛込か四谷でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸",
+        "context": "東京は馬鹿に広いからね。――何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、【小石川】？ でなければ牛込か四谷でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "小石川",
+        "description": "📚 夏目漱石『草枕』\n📍 小石川, 文京区, 東京都, 日本\n💭 東京は馬鹿に広いからね。――何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、【小石川】？ でなければ牛込か四谷でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2859627,
+          43.0635019
+        ]
+      },
+      "properties": {
+        "place_id": 13,
+        "place_name": "山の手",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "山の手, 西区, 札幌市, 石狩振興局, 北海道, 日本",
+        "maps_url": null,
+        "before_text": "」 「東京はどこだか知れるかい」 「そうさね。東京は馬鹿に広いからね。――何でも下町じゃねえようだ。",
+        "sentence": "山の手",
+        "after_text": "。【山の手】は麹町かね。え？ それじゃ、小石川？ でなければ牛込か四谷でしょう」 「まあそんな見当だ",
+        "context": "」 「東京はどこだか知れるかい」 「そうさね。東京は馬鹿に広いからね。――何でも下町じゃねえようだ。【山の手】。【山の手】は麹町かね。え？ それじゃ、小石川？ でなければ牛込か四谷でしょう」 「まあそんな見当だ",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "山の手",
+        "description": "📚 夏目漱石『草枕』\n📍 山の手, 西区, 札幌市, 石狩振興局, 北海道, 日本\n💭 」 「東京はどこだか知れるかい」 「そうさね。東京は馬鹿に広いからね。――何でも下町じゃねえようだ。【山の手】。【山の手】は麹町かね。え？ それじゃ、小石川？ でなければ牛込か四谷でしょう」 「...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3269348,
+          42.2311102
+        ]
+      },
+      "properties": {
+        "place_id": 26,
+        "place_name": "山越",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "山越, 国道5号, 山越, 八雲町, 二海郡, 渡島総合振興局, 北海道, 049-2671, 日本",
+        "maps_url": null,
+        "before_text": "なるほどどこか似ている。 「なあに、送って貰うがいい。川船で行けば訳はない。なあ隠居さん」 「はい、",
+        "sentence": "山越",
+        "after_text": "では難義だが、廻り路でも船なら……」 若い男は今度は別に辞退もしない。ただ黙っている。 「支那の方へ",
+        "context": "なるほどどこか似ている。 「なあに、送って貰うがいい。川船で行けば訳はない。なあ隠居さん」 「はい、【山越】では難義だが、廻り路でも船なら……」 若い男は今度は別に辞退もしない。ただ黙っている。 「支那の方へ",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "山越",
+        "description": "📚 夏目漱石『草枕』\n📍 山越, 国道5号, 山越, 八雲町, 二海郡, 渡島総合振興局, 北海道, 049-2671, 日本\n💭 なるほどどこか似ている。 「なあに、送って貰うがいい。川船で行けば訳はない。なあ隠居さん」 「はい、【山越】では難義だが、廻り路でも船なら……」 若い男は今度は別に辞退もしない。ただ黙っている。...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7727728,
+          35.1147868
+        ]
+      },
+      "properties": {
+        "place_id": 32,
+        "place_name": "山門",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "山門, 参道, 鞍馬, 左京区, 京都市, 京都府, 601-1111, 日本",
+        "maps_url": null,
+        "before_text": "了念は余の顔を見て、ちょっと笑った。和尚は鳩の眼が夜でも見えると思うているらしい。気楽なものだ。 【",
+        "sentence": "山門",
+        "after_text": "の所で、余は二人に別れる。見返えると、大きな丸い影と、小さな丸い影が、石甃の上に落ちて、前後して庫裏",
+        "context": "了念は余の顔を見て、ちょっと笑った。和尚は鳩の眼が夜でも見えると思うているらしい。気楽なものだ。 【【山門】の所で、余は二人に別れる。見返えると、大きな丸い影と、小さな丸い影が、石甃の上に落ちて、前後して庫裏",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "山門",
+        "description": "📚 夏目漱石『草枕』\n📍 山門, 参道, 鞍馬, 左京区, 京都市, 京都府, 601-1111, 日本\n💭 了念は余の顔を見て、ちょっと笑った。和尚は鳩の眼が夜でも見えると思うているらしい。気楽なものだ。 【【山門】の所で、余は二人に別れる。見返えると、大きな丸い影と、小さな丸い影が、石甃の上に落ちて...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3538643,
+          40.9293709
+        ]
+      },
+      "properties": {
+        "place_id": 30,
+        "place_name": "山陰",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "山陰, 鯵ヶ沢蟹田線, 大田光, つがる市, 青森県, 038-3303, 日本",
+        "maps_url": null,
+        "before_text": "く様子も見えぬ。ぱっと咲き、ぽたりと落ち、ぽたりと落ち、ぱっと咲いて、幾百年の星霜を、人目にかからぬ",
+        "sentence": "山陰",
+        "after_text": "に落ちつき払って暮らしている。ただ一眼見たが最後！ 見た人は彼女の魔力から金輪際、免るる事は出来ない",
+        "context": "く様子も見えぬ。ぱっと咲き、ぽたりと落ち、ぽたりと落ち、ぱっと咲いて、幾百年の星霜を、人目にかからぬ【山陰】に落ちつき払って暮らしている。ただ一眼見たが最後！ 見た人は彼女の魔力から金輪際、免るる事は出来ない",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "山陰",
+        "description": "📚 夏目漱石『草枕』\n📍 山陰, 鯵ヶ沢蟹田線, 大田光, つがる市, 青森県, 038-3303, 日本\n💭 く様子も見えぬ。ぱっと咲き、ぽたりと落ち、ぽたりと落ち、ぱっと咲いて、幾百年の星霜を、人目にかからぬ【山陰】に落ちつき払って暮らしている。ただ一眼見たが最後！ 見た人は彼女の魔力から金輪際、免る...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6456035,
+          35.7710948
+        ]
+      },
+      "properties": {
+        "place_id": 25,
+        "place_name": "山陽",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "山陽, 赤塚中央通り, 赤塚一丁目, 赤塚, 板橋区, 東京都, 175-0092, 日本",
+        "maps_url": null,
+        "before_text": "云うばかりでは、俗でもあるが、これはその何ですよ。【山陽】が広島におった時に庭に生えていた松の皮を剥",
+        "sentence": "山陽",
+        "after_text": "ずから製したのですよ」 なるほど【山陽】は俗な男だと思ったから、 「どうせ、自分で作るなら、もっと不",
+        "context": "云うばかりでは、俗でもあるが、これはその何ですよ。【山陽】が広島におった時に庭に生えていた松の皮を剥【山陽】ずから製したのですよ」 なるほど【山陽】は俗な男だと思ったから、 「どうせ、自分で作るなら、もっと不",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "山陽",
+        "description": "📚 夏目漱石『草枕』\n📍 山陽, 赤塚中央通り, 赤塚一丁目, 赤塚, 板橋区, 東京都, 175-0092, 日本\n💭 云うばかりでは、俗でもあるが、これはその何ですよ。【山陽】が広島におった時に庭に生えていた松の皮を剥【山陽】ずから製したのですよ」 なるほど【山陽】は俗な男だと思ったから、 「どうせ、自分で作る...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4758627,
+          34.3970993
+        ]
+      },
+      "properties": {
+        "place_id": 24,
+        "place_name": "広島",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本",
+        "maps_url": null,
+        "before_text": "と云わぬばかりに手を挙げて、 「ただ松の蓋と云うばかりでは、俗でもあるが、これはその何ですよ。山陽が",
+        "sentence": "広島",
+        "after_text": "におった時に庭に生えていた松の皮を剥いで山陽が手ずから製したのですよ」 なるほど山陽は俗な男だと思っ",
+        "context": "と云わぬばかりに手を挙げて、 「ただ松の蓋と云うばかりでは、俗でもあるが、これはその何ですよ。山陽が【広島】におった時に庭に生えていた松の皮を剥いで山陽が手ずから製したのですよ」 なるほど山陽は俗な男だと思っ",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "広島",
+        "description": "📚 夏目漱石『草枕』\n📍 広島, カープロード, 猿猴橋町, 南区, 広島市, 広島県, 732-0823, 日本\n💭 と云わぬばかりに手を挙げて、 「ただ松の蓋と云うばかりでは、俗でもあるが、これはその何ですよ。山陽が【広島】におった時に庭に生えていた松の皮を剥いで山陽が手ずから製したのですよ」 なるほど山陽は...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.2555885,
+          34.714886
+        ]
+      },
+      "properties": {
+        "place_id": 23,
+        "place_name": "御影",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "御影, 御影本町３１号線, 御影中町五丁目, 東灘区, 神戸市, 兵庫県, 658-0054, 日本",
+        "maps_url": null,
+        "before_text": "。 三畳へ着物を脱いで、段々を、四つ下りると、八畳ほどな風呂場へ出る。石に不自由せぬ国と見えて、下は",
+        "sentence": "御影",
+        "after_text": "で敷き詰めた、真中を四尺ばかりの深さに掘り抜いて、豆腐屋ほどな湯槽を据える。槽とは云うもののやはり石",
+        "context": "。 三畳へ着物を脱いで、段々を、四つ下りると、八畳ほどな風呂場へ出る。石に不自由せぬ国と見えて、下は【御影】で敷き詰めた、真中を四尺ばかりの深さに掘り抜いて、豆腐屋ほどな湯槽を据える。槽とは云うもののやはり石",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "御影",
+        "description": "📚 夏目漱石『草枕』\n📍 御影, 御影本町３１号線, 御影中町五丁目, 東灘区, 神戸市, 兵庫県, 658-0054, 日本\n💭 。 三畳へ着物を脱いで、段々を、四つ下りると、八畳ほどな風呂場へ出る。石に不自由せぬ国と見えて、下は【御影】で敷き詰めた、真中を四尺ばかりの深さに掘り抜いて、豆腐屋ほどな湯槽を据える。槽とは云う...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0338524,
+          36.5379451
+        ]
+      },
+      "properties": {
+        "place_id": 28,
+        "place_name": "敷島",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "敷島, 敷島駅前構内, 赤城町敷島, 渋川市, 群馬県, 377-0203, 日本",
+        "maps_url": null,
+        "before_text": "、名画をかくとは限らん。しかし名画をかき得る人は必ずこの境を知らねばならん。 朝飯をすまして、一本の",
+        "sentence": "敷島",
+        "after_text": "をゆたかに吹かしたるときの余の観想は以上のごとくである。日は霞を離れて高く上っている。障子をあけて、",
+        "context": "、名画をかくとは限らん。しかし名画をかき得る人は必ずこの境を知らねばならん。 朝飯をすまして、一本の【敷島】をゆたかに吹かしたるときの余の観想は以上のごとくである。日は霞を離れて高く上っている。障子をあけて、",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "敷島",
+        "description": "📚 夏目漱石『草枕』\n📍 敷島, 敷島駅前構内, 赤城町敷島, 渋川市, 群馬県, 377-0203, 日本\n💭 、名画をかくとは限らん。しかし名画をかき得る人は必ずこの境を知らねばならん。 朝飯をすまして、一本の【敷島】をゆたかに吹かしたるときの余の観想は以上のごとくである。日は霞を離れて高く上っている。...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7737947,
+          35.6809246
+        ]
+      },
+      "properties": {
+        "place_id": 34,
+        "place_name": "日本橋",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "日本橋, 中央区, 東京都, 日本",
+        "maps_url": null,
+        "before_text": "一々に聞き得たならば、浮世は目眩しくて生きづらかろう。ただ知らぬ人で逢い、知らぬ人でわかれるから結句",
+        "sentence": "日本橋",
+        "after_text": "に立って、電車の旗を振る志願者も出て来る。太公望が、久一さんの泣きそうな顔に、何らの説明をも求めなか",
+        "context": "一々に聞き得たならば、浮世は目眩しくて生きづらかろう。ただ知らぬ人で逢い、知らぬ人でわかれるから結句【日本橋】に立って、電車の旗を振る志願者も出て来る。太公望が、久一さんの泣きそうな顔に、何らの説明をも求めなか",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "日本橋",
+        "description": "📚 夏目漱石『草枕』\n📍 日本橋, 中央区, 東京都, 日本\n💭 一々に聞き得たならば、浮世は目眩しくて生きづらかろう。ただ知らぬ人で逢い、知らぬ人でわかれるから結句【日本橋】に立って、電車の旗を振る志願者も出て来る。太公望が、久一さんの泣きそうな顔に、何らの...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2888558,
+          36.0033004
+        ]
+      },
+      "properties": {
+        "place_id": 9,
+        "place_name": "明覚",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "明覚, 明覚停車場線, 番匠, ときがわ町, 比企郡, 埼玉県, 355-0354, 日本",
+        "maps_url": null,
+        "before_text": "眠くなる。 恍惚と云うのが、こんな場合に用いるべき形容詞かと思う。熟睡のうちには何人も我を認め得ぬ。",
+        "sentence": "明覚",
+        "after_text": "の際には誰あって外界を忘るるものはなかろう。ただ両域の間に縷のごとき幻境が横わる。醒めたりと云うには",
+        "context": "眠くなる。 恍惚と云うのが、こんな場合に用いるべき形容詞かと思う。熟睡のうちには何人も我を認め得ぬ。【明覚】の際には誰あって外界を忘るるものはなかろう。ただ両域の間に縷のごとき幻境が横わる。醒めたりと云うには",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "明覚",
+        "description": "📚 夏目漱石『草枕』\n📍 明覚, 明覚停車場線, 番匠, ときがわ町, 比企郡, 埼玉県, 355-0354, 日本\n💭 眠くなる。 恍惚と云うのが、こんな場合に用いるべき形容詞かと思う。熟睡のうちには何人も我を認め得ぬ。【明覚】の際には誰あって外界を忘るるものはなかろう。ただ両域の間に縷のごとき幻境が横わる。醒め...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7638947,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "place_id": 11,
+        "place_name": "東京",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "東京都, 日本",
+        "maps_url": null,
+        "before_text": "てくれと云ったら、幾顆でも上げますよ、持っていらっしゃいと答えて、樹の上で妙な節の唄をうたい出した。",
+        "sentence": "東京",
+        "after_text": "では蜜柑の皮でさえ薬種屋へ買いに行かねばならぬのにと思った。夜になると、しきりに銃の音がする。何だと",
+        "context": "てくれと云ったら、幾顆でも上げますよ、持っていらっしゃいと答えて、樹の上で妙な節の唄をうたい出した。【東京】では蜜柑の皮でさえ薬種屋へ買いに行かねばならぬのにと思った。夜になると、しきりに銃の音がする。何だと",
+        "extraction_method": "ginza_ner_Province",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "東京",
+        "description": "📚 夏目漱石『草枕』\n📍 東京都, 日本\n💭 てくれと云ったら、幾顆でも上げますよ、持っていらっしゃいと答えて、樹の上で妙な節の唄をうたい出した。【東京】では蜜柑の皮でさえ薬種屋へ買いに行かねばならぬのにと思った。夜になると、しきりに銃の音...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5604929,
+          39.310336
+        ]
+      },
+      "properties": {
+        "place_id": 33,
+        "place_name": "横手",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "横手, 東西自由通路こころーど, 駅前町, 横手市, 秋田県, 013-0036, 日本",
+        "maps_url": null,
+        "before_text": "書いてあるが」 「なるほど」と余は自分の下駄を丁寧に揃える。 和尚の室は廊下を鍵の手に曲って、本堂の",
+        "sentence": "横手",
+        "after_text": "にある。障子を恭しくあけて、恭しく敷居越しにつくばった了念が、 「あのう、志保田から、画工さんが来ら",
+        "context": "書いてあるが」 「なるほど」と余は自分の下駄を丁寧に揃える。 和尚の室は廊下を鍵の手に曲って、本堂の【横手】にある。障子を恭しくあけて、恭しく敷居越しにつくばった了念が、 「あのう、志保田から、画工さんが来ら",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "横手",
+        "description": "📚 夏目漱石『草枕』\n📍 横手, 東西自由通路こころーど, 駅前町, 横手市, 秋田県, 013-0036, 日本\n💭 書いてあるが」 「なるほど」と余は自分の下駄を丁寧に揃える。 和尚の室は廊下を鍵の手に曲って、本堂の【横手】にある。障子を恭しくあけて、恭しく敷居越しにつくばった了念が、 「あのう、志保田から、...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.822448,
+          35.7614288
+        ]
+      },
+      "properties": {
+        "place_id": 19,
+        "place_name": "江戸っ子",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "江戸っ子, 綾瀬川通り, 小菅四丁目, 小菅, 葛飾区, 東京都, 120-0005, 日本",
+        "maps_url": null,
+        "before_text": "脳に与えたならば、余は両者の間に立ってすこぶる円。幸にして親方はさほど偉大な豪傑ではなかった。いくら",
+        "sentence": "江戸っ子",
+        "after_text": "でも、どれほどたんかを切っても、この渾然として駘蕩たる天地の大気象には叶わない。満腹の饒舌を弄して、",
+        "context": "脳に与えたならば、余は両者の間に立ってすこぶる円。幸にして親方はさほど偉大な豪傑ではなかった。いくら【江戸っ子】でも、どれほどたんかを切っても、この渾然として駘蕩たる天地の大気象には叶わない。満腹の饒舌を弄して、",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "江戸っ子",
+        "description": "📚 夏目漱石『草枕』\n📍 江戸っ子, 綾瀬川通り, 小菅四丁目, 小菅, 葛飾区, 東京都, 120-0005, 日本\n💭 脳に与えたならば、余は両者の間に立ってすこぶる円。幸にして親方はさほど偉大な豪傑ではなかった。いくら【江戸っ子】でも、どれほどたんかを切っても、この渾然として駘蕩たる天地の大気象には叶わない。満...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.940755,
+          35.439427
+        ]
+      },
+      "properties": {
+        "place_id": 16,
+        "place_name": "牛込",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "牛込, 木更津市, 千葉県, 292-0001, 日本",
+        "maps_url": null,
+        "before_text": "ね。――何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、小石川？ でなければ",
+        "sentence": "牛込",
+        "after_text": "か四谷でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸っ子だからね」 「",
+        "context": "ね。――何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、小石川？ でなければ【牛込】か四谷でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸っ子だからね」 「",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "牛込",
+        "description": "📚 夏目漱石『草枕』\n📍 牛込, 木更津市, 千葉県, 292-0001, 日本\n💭 ね。――何でも下町じゃねえようだ。山の手だね。山の手は麹町かね。え？ それじゃ、小石川？ でなければ【牛込】か四谷でしょう」 「まあそんな見当だろう。よく知ってるな」 「こう見えて、私も江戸っ子...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4666408,
+          37.7529789
+        ]
+      },
+      "properties": {
+        "place_id": 21,
+        "place_name": "精華",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "精華, 平和通り, 上町, 福島市, 福島県, 960-8611, 日本",
+        "maps_url": null,
+        "before_text": "物に着するより起るが故に、あらゆる苦しみを含む。ただ詩人と画客なるものあって、飽くまでこの待対世界の",
+        "sentence": "精華",
+        "after_text": "を嚼んで、徹骨徹髄の清きを知る。霞を餐し、露を嚥み、紫を品し、紅を評して、死に至って悔いぬ。彼らの楽",
+        "context": "物に着するより起るが故に、あらゆる苦しみを含む。ただ詩人と画客なるものあって、飽くまでこの待対世界の【精華】を嚼んで、徹骨徹髄の清きを知る。霞を餐し、露を嚥み、紫を品し、紅を評して、死に至って悔いぬ。彼らの楽",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "精華",
+        "description": "📚 夏目漱石『草枕』\n📍 精華, 平和通り, 上町, 福島市, 福島県, 960-8611, 日本\n💭 物に着するより起るが故に、あらゆる苦しみを含む。ただ詩人と画客なるものあって、飽くまでこの待対世界の【精華】を嚼んで、徹骨徹髄の清きを知る。霞を餐し、露を嚥み、紫を品し、紅を評して、死に至って悔...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1612135,
+          34.5932522
+        ]
+      },
+      "properties": {
+        "place_id": 12,
+        "place_name": "茶店",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "茶店, 国道368号, 長瀬, 名張市, 三重県, 518-0411, 日本",
+        "maps_url": null,
+        "before_text": "いで鼻を衝かれるくらい充満している。おさき真闇に盲動する汽車はあぶない標本の一つである。 停車場前の",
+        "sentence": "茶店",
+        "after_text": "に腰を下ろして、蓬餅を眺めながら汽車論を考えた。これは写生帖へかく訳にも行かず、人に話す必要もないか",
+        "context": "いで鼻を衝かれるくらい充満している。おさき真闇に盲動する汽車はあぶない標本の一つである。 停車場前の【茶店】に腰を下ろして、蓬餅を眺めながら汽車論を考えた。これは写生帖へかく訳にも行かず、人に話す必要もないか",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "茶店",
+        "description": "📚 夏目漱石『草枕』\n📍 茶店, 国道368号, 長瀬, 名張市, 三重県, 518-0411, 日本\n💭 いで鼻を衝かれるくらい充満している。おさき真闇に盲動する汽車はあぶない標本の一つである。 停車場前の【茶店】に腰を下ろして、蓬餅を眺めながら汽車論を考えた。これは写生帖へかく訳にも行かず、人に話...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8274887,
+          35.7296133
+        ]
+      },
+      "properties": {
+        "place_id": 6,
+        "place_name": "銚子",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "銚子, 銚子停車場線, 駅前商店街, 銚子市, 千葉県, 288-0044, 日本",
+        "maps_url": null,
+        "before_text": "気になった。 生れてから、こんな経験はただ一度しかない。昔し房州を館山から向うへ突き抜けて、上総から",
+        "sentence": "銚子",
+        "after_text": "まで浜伝いに歩行た事がある。その時ある晩、ある所へ宿た。ある所と云うよりほかに言いようがない。今では",
+        "context": "気になった。 生れてから、こんな経験はただ一度しかない。昔し房州を館山から向うへ突き抜けて、上総から【銚子】まで浜伝いに歩行た事がある。その時ある晩、ある所へ宿た。ある所と云うよりほかに言いようがない。今では",
+        "extraction_method": "ginza_ner_Province",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "銚子",
+        "description": "📚 夏目漱石『草枕』\n📍 銚子, 銚子停車場線, 駅前商店街, 銚子市, 千葉県, 288-0044, 日本\n💭 気になった。 生れてから、こんな経験はただ一度しかない。昔し房州を館山から向うへ突き抜けて、上総から【銚子】まで浜伝いに歩行た事がある。その時ある晩、ある所へ宿た。ある所と云うよりほかに言いよう...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469627,
+          35.3192808
+        ]
+      },
+      "properties": {
+        "place_id": 31,
+        "place_name": "鎌倉",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "鎌倉市, 神奈川県, 日本",
+        "maps_url": null,
+        "before_text": "る。句になると思って、また登る。かくして、余はとうとう、上まで登り詰めた。 石段の上で思い出す。昔し",
+        "sentence": "鎌倉",
+        "after_text": "へ遊びに行って、いわゆる五山なるものを、ぐるぐる尋ねて廻った時、たしか円覚寺の塔頭であったろう、やは",
+        "context": "る。句になると思って、また登る。かくして、余はとうとう、上まで登り詰めた。 石段の上で思い出す。昔し【鎌倉】へ遊びに行って、いわゆる五山なるものを、ぐるぐる尋ねて廻った時、たしか円覚寺の塔頭であったろう、やは",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "鎌倉",
+        "description": "📚 夏目漱石『草枕』\n📍 鎌倉市, 神奈川県, 日本\n💭 る。句になると思って、また登る。かくして、余はとうとう、上まで登り詰めた。 石段の上で思い出す。昔し【鎌倉】へ遊びに行って、いわゆる五山なるものを、ぐるぐる尋ねて廻った時、たしか円覚寺の塔頭であ...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7918454,
+          34.6903452
+        ]
+      },
+      "properties": {
+        "place_id": 3,
+        "place_name": "長良",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "長良, 総社市, 岡山県, 719-1111, 日本",
+        "maps_url": null,
+        "before_text": "聞えぬはずのものが、よく聞える。あきづけば、をばなが上に、おく露の、けぬべくもわは、おもほゆるかもと",
+        "sentence": "長良",
+        "after_text": "の乙女の歌を、繰り返し繰り返すように思われる。 初めのうちは椽に近く聞えた声が、しだいしだいに細く遠",
+        "context": "聞えぬはずのものが、よく聞える。あきづけば、をばなが上に、おく露の、けぬべくもわは、おもほゆるかもと【長良】の乙女の歌を、繰り返し繰り返すように思われる。 初めのうちは椽に近く聞えた声が、しだいしだいに細く遠",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "長良",
+        "description": "📚 夏目漱石『草枕』\n📍 長良, 総社市, 岡山県, 719-1111, 日本\n💭 聞えぬはずのものが、よく聞える。あきづけば、をばなが上に、おく露の、けぬべくもわは、おもほゆるかもと【長良】の乙女の歌を、繰り返し繰り返すように思われる。 初めのうちは椽に近く聞えた声が、しだい...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5055029,
+          43.7183388
+        ]
+      },
+      "properties": {
+        "place_id": 20,
+        "place_name": "陸前",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "緑, 駅前通り, 緑町, 清里町, 斜里郡, オホーツク総合振興局, 北海道, 日本",
+        "maps_url": null,
+        "before_text": "「泰安さんは死にはせんがな」 「死なねえ？ はてな。死んだはずだが」 「泰安さんは、その後発憤して、",
+        "sentence": "陸前",
+        "after_text": "の大梅寺へ行って、修業三昧じゃ。今に智識になられよう。結構な事よ」 「何が結構だい。いくら坊主だって",
+        "context": "「泰安さんは死にはせんがな」 「死なねえ？ はてな。死んだはずだが」 「泰安さんは、その後発憤して、【陸前】の大梅寺へ行って、修業三昧じゃ。今に智識になられよう。結構な事よ」 「何が結構だい。いくら坊主だって",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "陸前",
+        "description": "📚 夏目漱石『草枕』\n📍 緑, 駅前通り, 緑町, 清里町, 斜里郡, オホーツク総合振興局, 北海道, 日本\n💭 「泰安さんは死にはせんがな」 「死なねえ？ はてな。死んだはずだが」 「泰安さんは、その後発憤して、【陸前】の大梅寺へ行って、修業三昧じゃ。今に智識になられよう。結構な事よ」 「何が結構だい。い...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7381214,
+          35.6838108
+        ]
+      },
+      "properties": {
+        "place_id": 14,
+        "place_name": "麹町",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "麹町, 千代田区, 東京都, 102-0083, 日本",
+        "maps_url": null,
+        "before_text": "知れるかい」 「そうさね。東京は馬鹿に広いからね。――何でも下町じゃねえようだ。山の手だね。山の手は",
+        "sentence": "麹町",
+        "after_text": "かね。え？ それじゃ、小石川？ でなければ牛込か四谷でしょう」 「まあそんな見当だろう。よく知ってる",
+        "context": "知れるかい」 「そうさね。東京は馬鹿に広いからね。――何でも下町じゃねえようだ。山の手だね。山の手は【麹町】かね。え？ それじゃ、小石川？ でなければ牛込か四谷でしょう」 「まあそんな見当だろう。よく知ってる",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "麹町",
+        "description": "📚 夏目漱石『草枕』\n📍 麹町, 千代田区, 東京都, 102-0083, 日本\n💭 知れるかい」 「そうさね。東京は馬鹿に広いからね。――何でも下町じゃねえようだ。山の手だね。山の手は【麹町】かね。え？ それじゃ、小石川？ でなければ牛込か四谷でしょう」 「まあそんな見当だろう...\n🎯 信頼度: 0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.998718,
+          37.61326
+        ]
+      },
+      "properties": {
+        "place_id": 10,
+        "place_name": "麻布",
+        "author_name": "夏目漱石",
+        "work_title": "草枕",
+        "address": "麻布, 三条市, 新潟県, 955-0047, 日本",
+        "maps_url": null,
+        "before_text": "躬如として、あぶくを飲んで結構がるものはいわゆる茶人である。あんな煩瑣な規則のうちに雅味があるなら、",
+        "sentence": "麻布",
+        "after_text": "の聯隊のなかは雅味で鼻がつかえるだろう。廻れ右、前への連中はことごとく大茶人でなくてはならぬ。あれは",
+        "context": "躬如として、あぶくを飲んで結構がるものはいわゆる茶人である。あんな煩瑣な規則のうちに雅味があるなら、【麻布】の聯隊のなかは雅味で鼻がつかえるだろう。廻れ右、前への連中はことごとく大茶人でなくてはならぬ。あれは",
+        "extraction_method": "ginza_ner_City",
+        "confidence": 0.8,
+        "aozora_url": "https://www.aozora.gr.jp/cards/000148/files/776_ruby_6020.zip",
+        "work_wikipedia_url": null,
+        "author_wikipedia_url": null,
+        "title": "夏目漱石『草枕』",
+        "subtitle": "麻布",
+        "description": "📚 夏目漱石『草枕』\n📍 麻布, 三条市, 新潟県, 955-0047, 日本\n💭 躬如として、あぶくを飲んで結構がるものはいわゆる茶人である。あんな煩瑣な規則のうちに雅味があるなら、【麻布】の聯隊のなかは雅味で鼻がつかえるだろう。廻れ右、前への連中はことごとく大茶人でなくては...\n🎯 信頼度: 0.8"
+      }
+    }
+  ]
+}
